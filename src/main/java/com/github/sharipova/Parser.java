@@ -11,6 +11,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Parser {
 
@@ -20,21 +22,37 @@ public class Parser {
     public static void main(String[] args) throws IOException {
         JSONObject obj = new JSONObject();
         JSONArray articles = new JSONArray();
-        JSONObject article = new JSONObject();
+        JSONObject article;
+        JSONArray annotations = new JSONArray();
+        JSONObject annotation;
 
         Document doc = Jsoup.connect(HOME).get();
         Elements links = doc.select("td[colspan] > a.SLink");
 
         for (Element link : links) {
+            article = new JSONObject();
             String url = SITE + link.attr("href");
             doc = (Document) Jsoup.connect(url).get();
-            Pattern pattern = Pattern.compile("<b>Аннотация:<\\/b>(.|\\s)*?<br>");
+            Pattern pattern = Pattern.compile("<b>Аннотация:<\\/b>((.|\\s)*?)<br>");
             Matcher matcher = pattern.matcher(doc.body().toString());
-            String annotation = "";
+            String originalAnnotation = "";
             if (matcher.find()) {
-                annotation = matcher.group(0).replace("<b>Аннотация:</b>", "").replace("<br>", "");
+                originalAnnotation = Jsoup.parse(matcher.group(1)).text();
             }
+            annotation = new JSONObject();
+            annotation.put("Original", originalAnnotation);
+            annotation.put("Porter", Stream.of(originalAnnotation.replaceAll("[^А-Яа-я\\s]", "")
+                    .split("\\s+")).map(r -> Porter.stem(r)).collect(Collectors.joining(" ")));
 
+            annotation.put("MyStem", Stream.of(originalAnnotation.replaceAll("[^А-Яа-я\\s]", "")
+                    .split("\\s+")).map(r -> {
+                try {
+                    return MyStem.stem(r);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                return null;
+            }).collect(Collectors.joining(" ")));
 
             article.put("Keywords", doc.select("b + i").text());
             article.put("Abstract", annotation);
