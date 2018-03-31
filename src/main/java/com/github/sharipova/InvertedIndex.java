@@ -6,16 +6,15 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.text.Collator;
+import java.util.*;
 
 /**
  * Created by liya on 07.03.18.
  */
 public class InvertedIndex {
-    private Set<String> words;
+    private Set<String> words = new TreeSet<String>();
+    private JSONArray terms = new JSONArray();
 
     private JSONObject getJsonFromFile(String fileName) throws IOException, ParseException {
         JSONParser parser = new JSONParser();
@@ -24,18 +23,21 @@ public class InvertedIndex {
     }
 
     private void createInvertedIndexes(String fileName, String normalizer) throws IOException, ParseException {
-        words = new HashSet<>();
+        JSONObject index = new JSONObject();
+        JSONObject term;
         JSONObject jsonObject = getJsonFromFile(fileName);
         JSONArray articles = (JSONArray) jsonObject.get("Articles");
         String indexFileName = normalizer + ".json";
-        JSONObject index = new JSONObject();
 
         for (int i = 0; i < articles.size(); i++) {
             JSONObject article = (JSONObject) articles.get(i);
             addWords("Title", normalizer, article);
             addWords("Abstract", normalizer, article);
         }
-        for (String word : words) {
+        Iterator<String> itr = words.iterator();
+        while(itr.hasNext()){
+            String word = itr.next();
+            term = new JSONObject();
             ArrayList<Integer> docs = new ArrayList<Integer>();
             for (int i = 0; i < articles.size(); i++) {
                 JSONObject article = (JSONObject) articles.get(i);
@@ -44,8 +46,12 @@ public class InvertedIndex {
                     docs.add(i);
                 }
             }
-            index.put(word, docs);
+            term.put("Value", word);
+            term.put("Documents", docs);
+            term.put("Count", docs.size());
+            terms.add(term);
         }
+        index.put("Terms", terms);
 
         try (FileWriter file = new FileWriter(indexFileName)) {
             file.write(index.toJSONString());
