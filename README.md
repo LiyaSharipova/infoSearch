@@ -1,5 +1,4 @@
-### Домашнее задание №4 - инвертированный индекс- добавлена сортировка термов - [InvertedIndex.java] 
-(https://github.com/LiyaSharipova/infoSearch/blob/master/src/main/java/com/github/sharipova/InvertedIndex.java)
+### Домашнее задание №4 - инвертированный индекс- добавлена сортировка термов - [InvertedIndex.java] (https://github.com/LiyaSharipova/infoSearch/blob/master/src/main/java/com/github/sharipova/InvertedIndex.java)
 ### Домашнее задание №4 - метод пересечения - [IntersectionSearch.java](https://github.com/LiyaSharipova/infoSearch/blob/master/src/main/java/com/github/sharipova/IntersectionSearch.java)
       ##Пример вывода:
             Query: задача уравнение -струя
