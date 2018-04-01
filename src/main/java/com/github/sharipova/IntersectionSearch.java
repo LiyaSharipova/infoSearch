@@ -49,8 +49,8 @@ public class IntersectionSearch {
         Set<Integer> result = new TreeSet<>();
         List<String> wordsList = new ArrayList<>(wordWithDocsMap.keySet());
         result = wordWithDocsMap.get(wordsList.get(0));
-        for (int i = 0; i < wordsList.size() - 1; i++) {
-            if (!(result.isEmpty() && i != 0))
+        for (int i = 1; i < wordsList.size() - 1; i++) {
+            if (!(result.isEmpty()))
                 result = getIntersection(result,
                         new TreeSet<>(wordWithDocsMap.get(wordsList.get(i))));
         }
