@@ -35,7 +35,8 @@ public class Parser {
             return null;
         }).collect(Collectors.joining(" "));
     }
-    public static void createInvertedIndex(JSONArray articles){
+
+    public static void createInvertedIndex(JSONArray articles) {
 
     }
 
@@ -50,6 +51,7 @@ public class Parser {
         Document doc = Jsoup.connect(HOME).get();
         Elements links = doc.select("td[colspan] > a.SLink");
 
+        int i = 0;
         for (Element link : links) {
             article = new JSONObject();
             title = new JSONObject();
@@ -71,11 +73,13 @@ public class Parser {
             title.put("Porter", normalizeWithPorter(originalTitle));
             title.put("MyStem", normalizeWithMyStem(originalTitle));
 
+            article.put("Id", i);
             article.put("Title", title);
             article.put("URL", url);
             article.put("Abstract", annotation);
             article.put("Keywords", doc.select("b + i").text());
             articles.add(article);
+            i++;
         }
         obj.put("Articles", articles);
         try (FileWriter file = new FileWriter("result.json")) {

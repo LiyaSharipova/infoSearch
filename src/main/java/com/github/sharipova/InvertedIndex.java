@@ -35,20 +35,29 @@ public class InvertedIndex {
             addWords("Abstract", normalizer, article);
         }
         Iterator<String> itr = words.iterator();
-        while(itr.hasNext()){
+        while (itr.hasNext()) {
             String word = itr.next();
             term = new JSONObject();
-            ArrayList<Integer> docs = new ArrayList<Integer>();
-            for (int i = 0; i < articles.size(); i++) {
-                JSONObject article = (JSONObject) articles.get(i);
+            JSONObject documents = new JSONObject();
+            Set<Integer> docsTitle = new HashSet<>();
+            Set<Integer> docsAbstract = new HashSet<>();
+            for (int i = 1; i < articles.size() + 1; i++) {
+                JSONObject article = (JSONObject) articles.get(i - 1);
 
-                if (isWordInArticle("Title", word, normalizer, article) || isWordInArticle("Abstract", word, normalizer, article)) {
-                    docs.add(i);
+                if (isWordInArticle("Title", word, normalizer, article)) {
+                    docsTitle.add(i);
+                }
+                if (isWordInArticle("Abstract", word, normalizer, article)) {
+                    docsAbstract.add(i);
                 }
             }
+            documents.put("Title", docsTitle);
+            documents.put("Abstract", docsAbstract);
             term.put("Value", word);
-            term.put("Documents", docs);
-            term.put("Count", docs.size());
+            term.put("Documents", documents);
+//            union two sets
+            docsAbstract.addAll(docsTitle);
+            term.put("Count", docsAbstract.size());
             terms.add(term);
         }
         index.put("Terms", terms);
