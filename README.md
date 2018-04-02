@@ -7,7 +7,7 @@
             Сount: 7
             
 ### Домашнее задание №5 - Tf_idf - [TfIdf.java](https://github.com/LiyaSharipova/infoSearch/blob/master/src/main/java/com/github/sharipova/TfIdf.java)
-Score записан в инветированные индексы: [MyStemWithScore.json](), [PorterWithScore.json]()
+Score записан в инветированные индексы: [MyStemWithScore.json](https://github.com/LiyaSharipova/infoSearch/blob/master/MyStemWithScore.json), [PorterWithScore.json](https://github.com/LiyaSharipova/infoSearch/blob/master/PorterWithScore.json)
 
       ##Пример вывода:
             Query: задача уравнение -струя
