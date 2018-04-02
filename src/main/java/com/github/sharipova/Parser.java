@@ -78,11 +78,14 @@ public class Parser {
             article.put("URL", url);
             article.put("Abstract", annotation);
             article.put("Keywords", doc.select("b + i").text());
+            article.put("WordsCount", originalAnnotation.replaceAll("[^А-Яа-я\\s]", "")
+                    .split("\\s+").length + originalTitle.replaceAll("[^А-Яа-я\\s]", "")
+                    .split("\\s+").length);
             articles.add(article);
             i++;
         }
         obj.put("Articles", articles);
-        try (FileWriter file = new FileWriter("result.json")) {
+        try (FileWriter file = new FileWriter("result1.json")) {
             file.write(obj.toJSONString());
         }
     }

@@ -1,4818 +1,6444 @@
 {
   "Terms": [
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
       "Value": "а",
-      "Count": 11
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "адаптивн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
       "Value": "алгебр",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
       "Value": "аналитическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10,
-          11
-        ],
-        "Title": []
-      },
       "Value": "аппарат",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          6
-        ],
-        "Title": []
-      },
       "Value": "аппроксимац",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
       "Value": "асимптотическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
       "Value": "ассоциативн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "без",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "безударн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
       "Value": "бесконечн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          11
-        ],
-        "Title": [
-          3,
-          5,
-          6,
-          11
-        ]
-      },
       "Value": "бол",
-      "Count": 5
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": [
-          3
-        ]
-      },
       "Value": "больш",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
       "Value": "бруннаминковск",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
       "Value": "быт",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          10,
-          11
-        ]
-      },
       "Value": "в",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 3,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 6,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
       "Count": 11
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
       "Value": "введен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "вейерштрасс",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
       "Value": "вектор",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
       "Value": "взаимосвяз",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          4,
-          7
-        ],
-        "Title": []
-      },
       "Value": "вид",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 4
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
       "Value": "влиян",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
       "Value": "внешн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9,
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
       "Value": "воздейств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
       "Value": "возмущен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          9
-        ],
-        "Title": []
-      },
       "Value": "волн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
       "Value": "вопрос",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
       "Value": "враща",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
       "Value": "вращен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6,
-          11
-        ],
-        "Title": []
-      },
       "Value": "времен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
       "Value": "всевозможн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
       "Value": "входн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "выбор",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "выделен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "высокоскоростн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
       "Value": "вычислительн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "выявл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
       "Value": "вязк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "газов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "гахов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
       "Value": "где",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
       "Value": "гильбертов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
       "Value": "гиперболическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
       "Value": "гиперплоск",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
       "Value": "гладкост",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "голоморфн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3
-        ],
-        "Title": [
-          3
-        ]
-      },
       "Value": "градиент",
-      "Count": 2
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
       "Value": "градиентн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          3,
-          9
-        ],
-        "Title": []
-      },
       "Value": "границ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3
-        ],
-        "Title": [
-          2,
-          3
-        ]
-      },
       "Value": "граничн",
-      "Count": 2
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
       "Value": "давлен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "дальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          4,
-          10
-        ],
-        "Title": []
-      },
       "Value": "дан",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
       "Value": "движен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
       "Value": "двойн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          4,
-          10
-        ],
-        "Title": []
-      },
       "Value": "двум",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
       "Value": "двупараметрическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          3,
-          5
-        ],
-        "Title": [
-          3
-        ]
-      },
       "Value": "двух",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          5,
-          9,
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
       "Value": "действ",
-      "Count": 3
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "диапазон",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 3,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5,
-          9
-        ],
-        "Title": [
-          5
-        ]
-      },
       "Value": "динамик",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
       "Value": "динамическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
       "Value": "дирихл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          8,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
       "Value": "дифференциальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          7
-        ]
-      },
       "Value": "для",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
       "Count": 9
     },
     {
-      "Documents": {
-        "Abstract": [
-          6,
-          7,
-          8
-        ],
-        "Title": []
-      },
       "Value": "доказа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
       "Value": "доказательств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          5,
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
       "Value": "дополнительн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
       "Value": "достаточн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          8,
-          10
-        ],
-        "Title": []
-      },
       "Value": "друг",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 2,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
       "Value": "е",
-      "Count": 11
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
       "Value": "евклидов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "единичн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5,
-          6
-        ],
-        "Title": []
-      },
       "Value": "единствен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          3,
-          4,
-          5,
-          7,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          4,
-          9
-        ]
-      },
       "Value": "же",
-      "Count": 8
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": [
-          9
-        ]
-      },
       "Value": "жестк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": [
-          9,
-          10
-        ]
-      },
       "Value": "жидк",
-      "Count": 2
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
       "Value": "жидкост",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 2,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
       "Value": "завися",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          8,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          6,
-          8
-        ]
-      },
       "Value": "задач",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 6,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
       "Count": 7
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
       "Value": "заполнен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
       "Value": "заполнител",
+      "DocumentsAbstract": [],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
       "Value": "и",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "идеал",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          8,
-          9
-        ],
-        "Title": [
-          5,
-          8
-        ]
-      },
-      "Value": "из",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          5,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "известн",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "изменен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "изуч",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "имеет",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "интегральн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "интерполируем",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": [
-          3
-        ]
-      },
-      "Value": "интерполяц",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "интерполяцион",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "иском",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          5,
-          6,
-          7,
-          9,
-          10,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "использ",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          6,
-          9,
-          10,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "использова",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "использован",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          4,
-          5,
-          7,
-          8,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "исследова",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "исследован",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "итерацион",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          6,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "их",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          1,
-          3,
-          5,
-          6,
-          7,
-          9,
-          10,
-          11
-        ]
-      },
-      "Value": "к",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": [
-          1
-        ]
-      },
-      "Value": "капелл",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
-      "Value": "квазилевнеровск",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "квазимногочлен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          5,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "класс",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "когд",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "комплекснозначн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "конечноразностн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "конкретн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "конструкц",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "контекст",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": [
-          9
-        ]
-      },
-      "Value": "конус",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "конусообразн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "конц",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          5,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "котор",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "кош",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "коэффициент",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "краев",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": [
-          1
-        ]
-      },
-      "Value": "кратн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "критическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4
-        ],
-        "Title": []
-      },
-      "Value": "кром",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "круг",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "кругов",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "кусочноравномерн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "лагранж",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "лам",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "лаплас",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          5,
-          6,
-          9,
-          11
-        ],
-        "Title": [
-          3,
-          11
-        ]
-      },
-      "Value": "лин",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "линейн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          4,
-          5,
-          7,
-          8,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "луч",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          6,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "мал",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "марксаштрохеккер",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "масс",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          10,
-          11
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "межд",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "межфазн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "мест",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6,
-          8,
-          9
-        ],
-        "Title": [
-          2,
-          8
-        ]
-      },
-      "Value": "метод",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "минимум",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          7
-        ],
-        "Title": [
-          1
-        ]
-      },
-      "Value": "мног",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": [
-          1
-        ]
-      },
-      "Value": "многочл",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": [
-          1
-        ]
-      },
-      "Value": "многочлен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          5
-        ],
-        "Title": [
-          4
-        ]
-      },
-      "Value": "множеств",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "моделирован",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "может",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "момент",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "монотон",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "мс",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          5,
-          6,
-          7,
-          8,
-          11
-        ]
-      },
-      "Value": "на",
-      "Count": 9
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "наблюда",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "наблюден",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "найд",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "найт",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "наклон",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "налич",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "настоя",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          5,
-          7,
-          8,
-          10,
-          11
-        ]
-      },
-      "Value": "не",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "независим",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "неконцентрическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "некотор",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "неположительн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "непрерывн",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "неравенств",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "несжима",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
-      "Value": "нестационарн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "них",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          5,
-          6,
-          8,
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "нов",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "нормальн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      "Value": "о",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "облада",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          6,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "област",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "обобща",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "обобщен",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
-      "Value": "оболочк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          6,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "общ",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6,
-          8
-        ],
-        "Title": [
-          6,
-          8
-        ]
-      },
-      "Value": "ограничен",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          5,
-          7,
-          8
-        ],
-        "Title": [
-          5,
-          8
-        ]
-      },
-      "Value": "одн",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "одномерн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "однопараметрическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "означа",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "оператор",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "описан",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "описыва",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "определен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "оптимальн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "оригинал",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          4,
-          6,
-          9,
-          10
-        ]
-      },
-      "Value": "ос",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          5,
-          8,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "основ",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "основа",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "основн",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "осуществл",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "от",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "отмет",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "относительн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "отошедш",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "отрезк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "отсутств",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "оценк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          4,
-          5,
-          6,
-          8,
-          10,
-          11
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "пар",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "параболическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "параллельн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          5,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "параметр",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "параметрическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "пенлев",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          7
-        ],
-        "Title": [
-          3
-        ]
-      },
-      "Value": "перемен",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "перемещен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "переход",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "плавн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7,
-          9
-        ],
-        "Title": [
-          9
-        ]
-      },
-      "Value": "плоск",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          3,
-          4,
-          6,
-          8,
-          9,
-          11
-        ]
-      },
-      "Value": "по",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "поверхн",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "поверхностн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": [
-          3
-        ]
-      },
-      "Value": "пограничн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3
-        ],
-        "Title": []
-      },
-      "Value": "погрешн",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "подготовительн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "подтвержд",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          4,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "показа",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          3,
-          8,
-          11
-        ]
-      },
-      "Value": "пол",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": [
-          3
-        ]
-      },
-      "Value": "полиномиальн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "полусферическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          4,
-          5,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "получ",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "получен",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          4
-        ],
-        "Title": []
-      },
-      "Value": "понят",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "порожда",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "порядк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "порядок",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "посвящ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": [
-          4
-        ]
-      },
-      "Value": "последовательн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "постановк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "постро",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "построен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "поточечн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "прав",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "предельн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "предлож",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "предложен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "предполага",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "представл",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
-      "Value": "предшварциа",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
-      "Value": "предшварциан",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "преобразован",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          5,
-          6,
-          7,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "при",
-      "Count": 9
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          6,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "привед",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "привод",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          5,
-          11
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "применен",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "пример",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "принцип",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "присоединен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "пристеночн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "провед",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "продемонстрирова",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
-      "Value": "производн",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "произвольн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "происход",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "пространств",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "пространственновремен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "прохожден",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "процесс",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "прям",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "прямоугольн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "псевдообращен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "работ",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "рабоч",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "равномерн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "радиальн",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "различн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "разложен",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6
-        ],
-        "Title": []
-      },
-      "Value": "разностн",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "разрешим",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          6,
-          7,
-          8,
-          9
-        ],
-        "Title": [
-          2,
-          3,
-          6,
-          8
-        ]
-      },
-      "Value": "ран",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "распределен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "рассматрива",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          6,
-          8,
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "рассмотр",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "рассмотрен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "расстоян",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "растека",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "растекан",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "расчет",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "реализ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "регуляризац",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "режим",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "резк",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          6,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "результат",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          8,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          6
-        ]
-      },
-      "Value": "реш",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          6,
-          8,
-          10
-        ],
-        "Title": [
-          2,
-          6
-        ]
-      },
-      "Value": "решен",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "ряд",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      "Value": "с",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "сам",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "свед",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "свободн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": [
-          4
-        ]
-      },
-      "Value": "сводим",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4
-        ],
-        "Title": []
-      },
-      "Value": "свойств",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4,
-          7,
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "связ",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7,
-          8
-        ],
-        "Title": [
-          8
-        ]
-      },
-      "Value": "связа",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "сгуща",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "седлов",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4,
-          5
-        ],
-        "Title": [
-          5
-        ]
-      },
-      "Value": "семейств",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "сетк",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "сеточн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          6,
-          10
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "систем",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "скорост",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          4,
-          5,
-          7,
-          8,
-          9
-        ],
-        "Title": [
-          4
-        ]
-      },
-      "Value": "след",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          8
-        ],
-        "Title": [
-          3
-        ]
-      },
-      "Value": "сло",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "служ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "случ",
-      "Count": 4
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "случа",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          6,
-          10
-        ]
-      },
-      "Value": "со",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 2,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 3,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 4,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
       "Count": 10
     },
     {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "соболев",
+      "Value": "идеал",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "соверша",
+      "Value": "из",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "совпада",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "совпаден",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "содерж",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "соответств",
-      "Count": 7
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "соотношен",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4,
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "состоя",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "состоян",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "специальн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "сред",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "стабилизац",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "старш",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": [
-          9
-        ]
-      },
-      "Value": "стенк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "степен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "стру",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "сумматорн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "суперпозиц",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "существен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "существован",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "сфер",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "сферическ",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "сформулирова",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "схем",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "сходим",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "счетн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          4
-        ],
-        "Title": []
-      },
-      "Value": "так",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4
-        ],
-        "Title": []
-      },
-      "Value": "такж",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "теорем",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          4,
-          5
-        ],
-        "Title": []
-      },
-      "Value": "термин",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "течен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          5,
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "тип",
+      "Value": "известн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          6,
-          8
-        ]
-      },
-      "Value": "то",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          4
-        ],
-        "Title": []
-      },
-      "Value": "тог",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "тождеств",
+      "Value": "изменен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "тольк",
+      "Value": "изуч",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "тонк",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "точек",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "точк",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5,
-          6,
-          8,
-          9,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "три",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ],
-        "Title": [
-          2,
-          3,
-          6,
-          7,
-          8,
-          9,
-          11
-        ]
-      },
-      "Value": "у",
-      "Count": 11
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "увеличен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "угл",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "углов",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          7,
-          9,
-          10
-        ],
-        "Title": [
-          9
-        ]
-      },
-      "Value": "уда",
+      "Value": "имеет",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "удал",
+      "Value": "интегральн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": [
-          9
-        ]
-      },
-      "Value": "удар",
+      "Value": "интерполируем",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "ударн",
+      "Value": "интерполяц",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 5,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "удзав",
+      "Value": "интерполяцион",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "удовлетворя",
+      "Value": "иском",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "использ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "узл",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          5
-        ],
-        "Title": []
-      },
-      "Value": "указа",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "униформизац",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "управлен",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
-      "Value": "упруг",
-      "Count": 2
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          8,
-          9
-        ],
-        "Title": [
-          2
-        ]
-      },
-      "Value": "уравнен",
-      "Count": 6
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "уровн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          5,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "услов",
+      "Value": "использова",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          9
-        ],
-        "Title": []
-      },
-      "Value": "устанавлива",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          1,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "установл",
+      "Value": "использован",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "устойчив",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          8
-        ],
-        "Title": []
-      },
-      "Value": "уточня",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "физическ",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "форм",
+      "Value": "исследова",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 4
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3
-        ],
-        "Title": []
-      },
-      "Value": "формул",
+      "Value": "исследован",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          5,
-          6,
-          7,
-          8,
-          11
-        ],
-        "Title": [
-          3,
-          6
-        ]
-      },
-      "Value": "функц",
-      "Count": 7
+      "Value": "итерацион",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6,
-          7
-        ],
-        "Title": []
-      },
-      "Value": "функциона",
+      "Value": "их",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 2,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "к",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 4,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "капелл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 4,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 4,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "квазилевнеровск",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "квазимногочлен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "класс",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 4
+    },
+    {
+      "Value": "когд",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": []
-      },
-      "Value": "функционал",
+      "Value": "комплекснозначн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "фур",
+      "Value": "конечноразностн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          3,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "Title": [
-          3,
-          7,
-          8
-        ]
-      },
-      "Value": "х",
+      "Value": "конкретн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "конструкц",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "контекст",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "конус",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "конусообразн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "конц",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "котор",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "кош",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "коэффициент",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "краев",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "кратн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 4,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "критическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "кром",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "круг",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "кругов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "кусочноравномерн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "лагранж",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "лам",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "лаплас",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "лин",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "линейн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "луч",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "мал",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "марксаштрохеккер",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "масс",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "межд",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 2,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 2,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "Count": 4
+    },
+    {
+      "Value": "межфазн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "мест",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "метод",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 3,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 4
+    },
+    {
+      "Value": "минимум",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 3,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "мног",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "многочл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "многочлен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 4,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 4,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "множеств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 8,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
+      "Count": 3
+    },
+    {
+      "Value": "моделирован",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "может",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "момент",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 3,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "монотон",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "мс",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "на",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
       "Count": 9
     },
     {
-      "Documents": {
-        "Abstract": [
-          7
-        ],
-        "Title": [
-          7
-        ]
-      },
-      "Value": "хадвигер",
+      "Value": "наблюда",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "хорнич",
+      "Value": "наблюден",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          6
-        ],
-        "Title": []
-      },
-      "Value": "цел",
+      "Value": "найд",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          7,
-          10
-        ],
-        "Title": [
-          10
-        ]
-      },
-      "Value": "центр",
-      "Count": 2
+      "Value": "найт",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          9,
-          11
-        ],
-        "Title": [
-          11
-        ]
-      },
-      "Value": "цилиндрическ",
-      "Count": 2
+      "Value": "наклон",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 3,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2,
-          6,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "част",
-      "Count": 5
+      "Value": "налич",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          7,
-          8
-        ],
-        "Title": []
-      },
-      "Value": "частн",
+      "Value": "настоя",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "не",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          1
-        ],
-        "Title": []
-      },
-      "Value": "частност",
+      "Value": "независим",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2
-        ],
-        "Title": []
-      },
-      "Value": "частот",
+      "Value": "неконцентрическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
-      "Value": "чем",
+      "Value": "некотор",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          1,
-          2
-        ],
-        "Title": []
-      },
-      "Value": "через",
+      "Value": "неположительн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "непрерывн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          3,
-          6,
-          9
-        ],
-        "Title": [
-          6
-        ]
-      },
-      "Value": "числен",
+      "Value": "неравенств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 3,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "несжима",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "нестационарн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "них",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "нов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "нормальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "о",
+      "DocumentsAbstract": [],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 4,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
       "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          7,
-          9,
-          10
-        ],
-        "Title": []
-      },
-      "Value": "что",
-      "Count": 5
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          10
-        ],
-        "Title": []
-      },
-      "Value": "шаров",
+      "Value": "облада",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "шишкин",
-      "Count": 1
+      "Value": "област",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
     },
     {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "эквивалентн",
-      "Count": 1
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          3,
-          6
-        ],
-        "Title": []
-      },
-      "Value": "эксперимент",
+      "Value": "обобща",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          3
-        ],
-        "Title": []
-      },
-      "Value": "эллиптическ",
+      "Value": "обобщен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "оболочк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "эт",
+      "Value": "общ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 2
     },
     {
-      "Documents": {
-        "Abstract": [
-          2,
-          3,
-          7,
-          11
-        ],
-        "Title": []
-      },
-      "Value": "явля",
+      "Value": "ограничен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "одн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "одномерн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "однопараметрическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "означа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "оператор",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "описан",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "описыва",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "определен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "оптимальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 3,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "оригинал",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "ос",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "основ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "основа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "основн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "осуществл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "от",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 4
     },
     {
-      "Documents": {
-        "Abstract": [
-          6,
-          7,
-          9
-        ],
-        "Title": []
-      },
-      "Value": "явн",
-      "Count": 3
-    },
-    {
-      "Documents": {
-        "Abstract": [
-          11
-        ],
-        "Title": []
-      },
-      "Value": "ядр",
+      "Value": "отмет",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     },
     {
-      "Documents": {
-        "Abstract": [
-          5
-        ],
-        "Title": []
-      },
+      "Value": "относительн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "отошедш",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "отрезк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "отсутств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "оценк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "пар",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "параболическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 3,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "параллельн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "параметр",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "параметрическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "пенлев",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "перемен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "перемещен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "переход",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "плавн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "плоск",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "по",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 3,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 4
+    },
+    {
+      "Value": "поверхн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "поверхностн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "пограничн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "погрешн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "подготовительн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "подтвержд",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "показа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "пол",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "полиномиальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "полусферическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "получ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "получен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "понят",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "порожда",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "порядк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "порядок",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "посвящ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "последовательн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "постановк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "постро",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "построен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "поточечн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "прав",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предельн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предлож",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предложен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предполага",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "представл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предшварциа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "предшварциан",
+      "DocumentsAbstract": [],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "преобразован",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "при",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 7
+    },
+    {
+      "Value": "привед",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 4
+    },
+    {
+      "Value": "привод",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "применен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 3
+    },
+    {
+      "Value": "пример",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "принцип",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "присоединен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "пристеночн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "провед",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "продемонстрирова",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "производн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "произвольн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "происход",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "пространств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "пространственновремен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "прохожден",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "процесс",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "прям",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "прямоугольн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "псевдообращен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "работ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 3,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "рабоч",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "равномерн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "радиальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "различн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "разложен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "разностн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "разрешим",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "ран",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "распределен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "рассматрива",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "рассмотр",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 5
+    },
+    {
+      "Value": "рассмотрен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "расстоян",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "растека",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "растекан",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "расчет",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "реализ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "регуляризац",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "режим",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 3,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "резк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "результат",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "реш",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "решен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 3,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 5
+    },
+    {
+      "Value": "ряд",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "с",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 3,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 4,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 3,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "Count": 8
+    },
+    {
+      "Value": "сам",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "свед",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "свободн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сводим",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 6,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 2,
+          "Id": 4
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "свойств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "связ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "связа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 13,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "сгуща",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "седлов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "семейств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "сетк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "сеточн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "систем",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 3
+    },
+    {
+      "Value": "скорост",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "след",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сло",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "служ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "случ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "случа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 4,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "со",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "соболев",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "соверша",
+      "DocumentsAbstract": [],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "совпада",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "совпаден",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "содерж",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "соответств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 7
+    },
+    {
+      "Value": "соотношен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "состоя",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "состоян",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "специальн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 3,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сред",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "стабилизац",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "старш",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "стенк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 5,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "степен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "стру",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 3,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сумматорн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "суперпозиц",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "существен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "существован",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "сфер",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "сферическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сформулирова",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "схем",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "сходим",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "счетн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "так",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "такж",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "теорем",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "термин",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 2,
+          "Id": 4
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "течен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 8,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "тип",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 3
+    },
+    {
+      "Value": "то",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "тог",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 2,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 64,
+          "WordCount": 1,
+          "Id": 4
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "тождеств",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "тольк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "тонк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "точек",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "точк",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 3,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "три",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "у",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "увеличен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "угл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 6,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "углов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "уда",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "удал",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "удар",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 7,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "ударн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "удзав",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "удовлетворя",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 2,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "узл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "указа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "униформизац",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "управлен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 5,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "упруг",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "уравнен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 3,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 4,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 3,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "Count": 6
+    },
+    {
+      "Value": "уровн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "услов",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 2,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "устанавлива",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "установл",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 2,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "устойчив",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "уточня",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "физическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "форм",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "формул",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "функц",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 2,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 4,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 5,
+          "Id": 5
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 2,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 2,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 11,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 7
+    },
+    {
+      "Value": "функциона",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "функционал",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 4,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "фур",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "х",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "хадвигер",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 7
+        }
+      ],
+      "Count": 1
+    },
+    {
+      "Value": "хорнич",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "цел",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "центр",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "цилиндрическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 9,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "Count": 2
+    },
+    {
+      "Value": "част",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "частн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 62,
+          "WordCount": 1,
+          "Id": 8
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "частност",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "частот",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "чем",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "через",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 54,
+          "WordCount": 1,
+          "Id": 1
+        },
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "числен",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 2,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [
+        {
+          "TotalWordsCount": 12,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "Count": 3
+    },
+    {
+      "Value": "что",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 2,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 2,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        },
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 5
+    },
+    {
+      "Value": "шаров",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 45,
+          "WordCount": 1,
+          "Id": 10
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "шишкин",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "эквивалентн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "эксперимент",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "эллиптическ",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
+      "Value": "эт",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 2
+    },
+    {
+      "Value": "явля",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 76,
+          "WordCount": 1,
+          "Id": 2
+        },
+        {
+          "TotalWordsCount": 85,
+          "WordCount": 1,
+          "Id": 3
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 4
+    },
+    {
+      "Value": "явн",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 87,
+          "WordCount": 1,
+          "Id": 6
+        },
+        {
+          "TotalWordsCount": 100,
+          "WordCount": 1,
+          "Id": 7
+        },
+        {
+          "TotalWordsCount": 114,
+          "WordCount": 1,
+          "Id": 9
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 3
+    },
+    {
+      "Value": "ядр",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 70,
+          "WordCount": 1,
+          "Id": 11
+        }
+      ],
+      "DocumentsTitle": [],
+      "Count": 1
+    },
+    {
       "Value": "якобиа",
+      "DocumentsAbstract": [
+        {
+          "TotalWordsCount": 96,
+          "WordCount": 1,
+          "Id": 5
+        }
+      ],
+      "DocumentsTitle": [],
       "Count": 1
     }
   ]

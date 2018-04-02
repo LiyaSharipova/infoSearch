@@ -9,17 +9,16 @@ import org.json.simple.parser.ParseException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Реализация метода пересечения
  */
 public class IntersectionSearch {
 
-    public void search(String query, String IndexFileName, String normalizer, String documentsFile) throws IOException, ParseException {
+    public Set<Integer> search(String query, String indexFileName, String normalizer, String documentsFile) throws IOException, ParseException {
         Set<Integer> allDocIds = getAllDocumentIds(documentsFile);
 //      read the invertedIndex file
-        JSONArray terms = getJsonFromFile(IndexFileName, "Terms");
+        JSONArray terms = getJsonFromFile(indexFileName, "Terms");
 //      get words from query
         String[] words = query.toLowerCase().split("\\s+");
         Map<String, Set<Integer>> wordWithDocsMap = new TreeMap<>();
@@ -32,10 +31,10 @@ public class IntersectionSearch {
             for (int i = 0; i < terms.size(); i++) {
                 JSONObject term = (JSONObject) terms.get(i);
                 if (term.get("Value").equals(searchWord)) {
-                    JSONObject documents = (JSONObject) term.get("Documents");
-                    Set<Integer> docsTitle = jsonArrayToSet((JSONArray) documents.get("Title"));
-                    Set<Integer> docsAbstract = jsonArrayToSet((JSONArray) documents.get("Abstract"));
-//                    Set<Integer> docsAbstract = (Set<Integer>) documents.get("Abstract");
+                    JSONArray documentsTitle = (JSONArray) term.get("DocumentsTitle");
+                    JSONArray documentsAbstract = (JSONArray) term.get("DocumentsAbstract");
+                    Set<Integer> docsTitle = jsonArrayToSet((JSONArray) documentsTitle);
+                    Set<Integer> docsAbstract = jsonArrayToSet((JSONArray) documentsAbstract);
                     wordDocIds.addAll(union(docsTitle, docsAbstract));
                 }
             }
@@ -54,8 +53,7 @@ public class IntersectionSearch {
                 result = getIntersection(result,
                         new TreeSet<>(wordWithDocsMap.get(wordsList.get(i))));
         }
-
-        printResult(query, result);
+        return result;
 
     }
 
@@ -67,14 +65,14 @@ public class IntersectionSearch {
         System.out.println("Сount: " + result.size());
     }
 
-    private JSONArray getJsonFromFile(String fileName, String key) throws IOException, ParseException {
+    public static JSONArray getJsonFromFile(String fileName, String key) throws IOException, ParseException {
         JSONParser parser = new JSONParser();
         JSONObject jsonObject = (JSONObject) parser.parse(new FileReader(fileName));
 
         return (JSONArray) jsonObject.get(key);
     }
 
-    private Set<Integer> getAllDocumentIds(String fileName) throws IOException, ParseException {
+    public static Set<Integer> getAllDocumentIds(String fileName) throws IOException, ParseException {
         Set<Integer> allDocIds = new HashSet<>();
         JSONArray documents = getJsonFromFile(fileName, "Articles");
         for (int i = 1; i < documents.size() + 1; i++) {
@@ -84,7 +82,7 @@ public class IntersectionSearch {
         return allDocIds;
     }
 
-    private String normalize(String word, String normalizer) {
+    public String normalize(String word, String normalizer) {
         String searchWord = "";
         if (word.startsWith("-")) {
             word.replace("-", "");
@@ -101,7 +99,8 @@ public class IntersectionSearch {
                 searchWord = Porter.stem(word);
                 break;
             default:
-                return null;
+                throw new IllegalArgumentException("No such normalizer: " + normalizer);
+
         }
         return searchWord;
 
@@ -109,8 +108,11 @@ public class IntersectionSearch {
 
     private Set<Integer> jsonArrayToSet(JSONArray jsonArray) {
         Set<Integer> set = new TreeSet<>();
-        for (int i = 0; i < jsonArray.size(); i++) {
-            set.add((int) (long) jsonArray.get(i));
+        if (jsonArray != null){
+            for (int i = 0; i < jsonArray.size(); i++) {
+                JSONObject document = (JSONObject) jsonArray.get(i);
+                set.add((int) (long) document.get("Id"));
+            }
         }
         return set;
     }
@@ -152,8 +154,10 @@ public class IntersectionSearch {
 
     public static void main(String[] args) throws IOException, ParseException {
         IntersectionSearch intersectionSearch = new IntersectionSearch();
-        intersectionSearch.search("задача уравнение -струя", "MyStem.json",
+        String query = "задача уравнение -струя";
+        Set<Integer> result = intersectionSearch.search(query, "MyStem.json",
                 "MyStem", "result.json");
+        intersectionSearch.printResult(query, result);
     }
 
 }
