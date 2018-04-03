@@ -82,7 +82,7 @@ public class IntersectionSearch {
         return allDocIds;
     }
 
-    public String normalize(String word, String normalizer) {
+    public static String normalize(String word, String normalizer) {
         String searchWord = "";
         if (word.startsWith("-")) {
             word.replace("-", "");

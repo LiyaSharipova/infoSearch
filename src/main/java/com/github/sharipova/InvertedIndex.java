@@ -35,6 +35,7 @@ public class InvertedIndex {
             addWords("Abstract", normalizer, article);
         }
         Iterator<String> itr = words.iterator();
+        int j = 0;
         while (itr.hasNext()) {
             String word = itr.next();
             term = new JSONObject();
@@ -59,6 +60,7 @@ public class InvertedIndex {
 //            union two sets
             docsAbstract.addAll(docsTitle);
             term.put("Count", docsAbstract.size());
+            term.put("Id", j++);
             terms.add(term);
         }
         index.put("Terms", terms);

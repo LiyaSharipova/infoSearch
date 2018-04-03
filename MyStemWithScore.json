@@ -11,7 +11,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 0
     },
     {
       "Value": "адаптивн",
@@ -24,7 +25,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 1
     },
     {
       "Value": "алгебр",
@@ -37,7 +39,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 2
     },
     {
       "Value": "аналитическ",
@@ -50,7 +53,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 3
     },
     {
       "Value": "аппарат",
@@ -69,7 +73,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 4
     },
     {
       "Value": "аппроксимац",
@@ -88,7 +93,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 5
     },
     {
       "Value": "асимптотическ",
@@ -101,7 +107,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 6
     },
     {
       "Value": "ассоциативн",
@@ -114,7 +121,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 7
     },
     {
       "Value": "без",
@@ -127,7 +135,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 8
     },
     {
       "Value": "безударн",
@@ -140,7 +149,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 9
     },
     {
       "Value": "бесконечн",
@@ -153,7 +163,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 10
     },
     {
       "Value": "бол",
@@ -166,7 +177,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 11
     },
     {
       "Value": "больш",
@@ -186,7 +198,8 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 12
     },
     {
       "Value": "бруннаминковск",
@@ -206,7 +219,8 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 13
     },
     {
       "Value": "быт",
@@ -219,7 +233,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 14
     },
     {
       "Value": "в",
@@ -311,7 +326,8 @@
           "Id": 7
         }
       ],
-      "Count": 11
+      "Count": 11,
+      "Id": 15
     },
     {
       "Value": "введен",
@@ -324,7 +340,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 16
     },
     {
       "Value": "вейерштрасс",
@@ -337,7 +354,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 17
     },
     {
       "Value": "вектор",
@@ -350,7 +368,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 18
     },
     {
       "Value": "взаимосвяз",
@@ -363,7 +382,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 19
     },
     {
       "Value": "вид",
@@ -394,7 +414,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 20
     },
     {
       "Value": "влиян",
@@ -407,7 +428,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 21
     },
     {
       "Value": "внешн",
@@ -420,7 +442,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 22
     },
     {
       "Value": "воздейств",
@@ -446,7 +469,8 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 23
     },
     {
       "Value": "возмущен",
@@ -459,7 +483,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 24
     },
     {
       "Value": "волн",
@@ -478,7 +503,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 25
     },
     {
       "Value": "вопрос",
@@ -491,7 +517,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 26
     },
     {
       "Value": "враща",
@@ -504,7 +531,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 27
     },
     {
       "Value": "вращен",
@@ -524,7 +552,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 28
     },
     {
       "Value": "времен",
@@ -543,7 +572,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 29
     },
     {
       "Value": "всевозможн",
@@ -556,7 +586,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 30
     },
     {
       "Value": "входн",
@@ -576,7 +607,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 31
     },
     {
       "Value": "выбор",
@@ -589,7 +621,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 32
     },
     {
       "Value": "выделен",
@@ -602,7 +635,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 33
     },
     {
       "Value": "высокоскоростн",
@@ -615,7 +649,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 34
     },
     {
       "Value": "вычислительн",
@@ -628,7 +663,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 35
     },
     {
       "Value": "выявл",
@@ -641,7 +677,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 36
     },
     {
       "Value": "вязк",
@@ -654,7 +691,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 37
     },
     {
       "Value": "газов",
@@ -667,7 +705,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 38
     },
     {
       "Value": "гахов",
@@ -680,7 +719,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 39
     },
     {
       "Value": "где",
@@ -693,7 +733,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 40
     },
     {
       "Value": "гильбертов",
@@ -706,7 +747,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 41
     },
     {
       "Value": "гиперболическ",
@@ -726,7 +768,8 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 42
     },
     {
       "Value": "гиперплоск",
@@ -739,7 +782,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 43
     },
     {
       "Value": "гладкост",
@@ -752,7 +796,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 44
     },
     {
       "Value": "голоморфн",
@@ -765,7 +810,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 45
     },
     {
       "Value": "градиент",
@@ -785,7 +831,8 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 46
     },
     {
       "Value": "градиентн",
@@ -798,7 +845,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 47
     },
     {
       "Value": "границ",
@@ -817,7 +865,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 48
     },
     {
       "Value": "граничн",
@@ -837,7 +886,8 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 49
     },
     {
       "Value": "давлен",
@@ -857,7 +907,8 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 50
     },
     {
       "Value": "дальн",
@@ -870,7 +921,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 51
     },
     {
       "Value": "дан",
@@ -889,7 +941,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 52
     },
     {
       "Value": "движен",
@@ -902,7 +955,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 53
     },
     {
       "Value": "двойн",
@@ -915,7 +969,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 54
     },
     {
       "Value": "двум",
@@ -934,7 +989,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 55
     },
     {
       "Value": "двупараметрическ",
@@ -947,7 +1003,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 56
     },
     {
       "Value": "двух",
@@ -973,7 +1030,8 @@
           "Id": 3
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 57
     },
     {
       "Value": "действ",
@@ -986,7 +1044,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 58
     },
     {
       "Value": "диапазон",
@@ -999,7 +1058,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 59
     },
     {
       "Value": "динамик",
@@ -1025,7 +1085,8 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 60
     },
     {
       "Value": "динамическ",
@@ -1038,7 +1099,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 61
     },
     {
       "Value": "дирихл",
@@ -1051,7 +1113,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 62
     },
     {
       "Value": "дифференциальн",
@@ -1071,7 +1134,8 @@
           "Id": 10
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 63
     },
     {
       "Value": "для",
@@ -1145,7 +1209,8 @@
           "Id": 7
         }
       ],
-      "Count": 9
+      "Count": 9,
+      "Id": 64
     },
     {
       "Value": "доказа",
@@ -1170,7 +1235,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 65
     },
     {
       "Value": "доказательств",
@@ -1183,7 +1249,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 66
     },
     {
       "Value": "дополнительн",
@@ -1215,7 +1282,8 @@
           "Id": 8
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 67
     },
     {
       "Value": "достаточн",
@@ -1228,7 +1296,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 68
     },
     {
       "Value": "друг",
@@ -1247,7 +1316,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 69
     },
     {
       "Value": "е",
@@ -1272,7 +1342,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 70
     },
     {
       "Value": "евклидов",
@@ -1285,7 +1356,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 71
     },
     {
       "Value": "единичн",
@@ -1298,7 +1370,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 72
     },
     {
       "Value": "единствен",
@@ -1317,7 +1390,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 73
     },
     {
       "Value": "же",
@@ -1336,7 +1410,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 74
     },
     {
       "Value": "жестк",
@@ -1356,7 +1431,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 75
     },
     {
       "Value": "жидк",
@@ -1376,7 +1452,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 76
     },
     {
       "Value": "жидкост",
@@ -1402,7 +1479,8 @@
           "Id": 10
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 77
     },
     {
       "Value": "завися",
@@ -1415,7 +1493,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 78
     },
     {
       "Value": "задач",
@@ -1483,7 +1562,8 @@
           "Id": 8
         }
       ],
-      "Count": 7
+      "Count": 7,
+      "Id": 79
     },
     {
       "Value": "заполнен",
@@ -1496,7 +1576,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 80
     },
     {
       "Value": "заполнител",
@@ -1509,7 +1590,8 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 81
     },
     {
       "Value": "и",
@@ -1583,7 +1665,8 @@
           "Id": 4
         }
       ],
-      "Count": 10
+      "Count": 10,
+      "Id": 82
     },
     {
       "Value": "идеал",
@@ -1596,7 +1679,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 83
     },
     {
       "Value": "из",
@@ -1609,7 +1693,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 84
     },
     {
       "Value": "известн",
@@ -1634,7 +1719,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 85
     },
     {
       "Value": "изменен",
@@ -1647,7 +1733,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 86
     },
     {
       "Value": "изуч",
@@ -1660,7 +1747,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 87
     },
     {
       "Value": "имеет",
@@ -1685,7 +1773,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 88
     },
     {
       "Value": "интегральн",
@@ -1698,7 +1787,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 89
     },
     {
       "Value": "интерполируем",
@@ -1711,7 +1801,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 90
     },
     {
       "Value": "интерполяц",
@@ -1731,7 +1822,8 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 91
     },
     {
       "Value": "интерполяцион",
@@ -1744,7 +1836,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 92
     },
     {
       "Value": "иском",
@@ -1757,7 +1850,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 93
     },
     {
       "Value": "использ",
@@ -1776,7 +1870,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 94
     },
     {
       "Value": "использова",
@@ -1801,7 +1896,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 95
     },
     {
       "Value": "использован",
@@ -1820,7 +1916,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 96
     },
     {
       "Value": "исследова",
@@ -1851,7 +1948,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 97
     },
     {
       "Value": "исследован",
@@ -1870,7 +1968,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 98
     },
     {
       "Value": "итерацион",
@@ -1883,7 +1982,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 99
     },
     {
       "Value": "их",
@@ -1896,7 +1996,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 100
     },
     {
       "Value": "к",
@@ -1921,7 +2022,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 101
     },
     {
       "Value": "капелл",
@@ -1941,7 +2043,8 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 102
     },
     {
       "Value": "квазилевнеровск",
@@ -1961,7 +2064,8 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 103
     },
     {
       "Value": "квазимногочлен",
@@ -1974,7 +2078,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 104
     },
     {
       "Value": "класс",
@@ -2005,7 +2110,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 105
     },
     {
       "Value": "когд",
@@ -2024,7 +2130,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 106
     },
     {
       "Value": "комплекснозначн",
@@ -2037,7 +2144,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 107
     },
     {
       "Value": "конечноразностн",
@@ -2050,7 +2158,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 108
     },
     {
       "Value": "конкретн",
@@ -2063,7 +2172,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 109
     },
     {
       "Value": "конструкц",
@@ -2076,7 +2186,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 110
     },
     {
       "Value": "контекст",
@@ -2089,7 +2200,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 111
     },
     {
       "Value": "конус",
@@ -2109,7 +2221,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 112
     },
     {
       "Value": "конусообразн",
@@ -2122,7 +2235,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 113
     },
     {
       "Value": "конц",
@@ -2135,7 +2249,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 114
     },
     {
       "Value": "котор",
@@ -2160,7 +2275,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 115
     },
     {
       "Value": "кош",
@@ -2173,7 +2289,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 116
     },
     {
       "Value": "коэффициент",
@@ -2192,7 +2309,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 117
     },
     {
       "Value": "краев",
@@ -2205,7 +2323,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 118
     },
     {
       "Value": "кратн",
@@ -2225,7 +2344,8 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 119
     },
     {
       "Value": "критическ",
@@ -2238,7 +2358,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 120
     },
     {
       "Value": "кром",
@@ -2257,7 +2378,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 121
     },
     {
       "Value": "круг",
@@ -2270,7 +2392,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 122
     },
     {
       "Value": "кругов",
@@ -2283,7 +2406,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 123
     },
     {
       "Value": "кусочноравномерн",
@@ -2296,7 +2420,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 124
     },
     {
       "Value": "лагранж",
@@ -2309,7 +2434,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 125
     },
     {
       "Value": "лам",
@@ -2329,7 +2455,8 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 126
     },
     {
       "Value": "лаплас",
@@ -2342,7 +2469,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 127
     },
     {
       "Value": "лин",
@@ -2355,7 +2483,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 128
     },
     {
       "Value": "линейн",
@@ -2368,7 +2497,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 129
     },
     {
       "Value": "луч",
@@ -2381,7 +2511,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 130
     },
     {
       "Value": "мал",
@@ -2406,7 +2537,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 131
     },
     {
       "Value": "марксаштрохеккер",
@@ -2419,7 +2551,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 132
     },
     {
       "Value": "масс",
@@ -2432,7 +2565,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 133
     },
     {
       "Value": "межд",
@@ -2470,7 +2604,8 @@
           "Id": 10
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 134
     },
     {
       "Value": "межфазн",
@@ -2483,7 +2618,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 135
     },
     {
       "Value": "мест",
@@ -2496,7 +2632,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 136
     },
     {
       "Value": "метод",
@@ -2540,7 +2677,8 @@
           "Id": 8
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 137
     },
     {
       "Value": "минимум",
@@ -2553,7 +2691,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 138
     },
     {
       "Value": "мног",
@@ -2566,7 +2705,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 139
     },
     {
       "Value": "многочл",
@@ -2579,7 +2719,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 140
     },
     {
       "Value": "многочлен",
@@ -2599,7 +2740,8 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 141
     },
     {
       "Value": "множеств",
@@ -2631,7 +2773,8 @@
           "Id": 4
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 142
     },
     {
       "Value": "моделирован",
@@ -2644,7 +2787,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 143
     },
     {
       "Value": "может",
@@ -2657,7 +2801,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 144
     },
     {
       "Value": "момент",
@@ -2677,7 +2822,8 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 145
     },
     {
       "Value": "монотон",
@@ -2690,7 +2836,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 146
     },
     {
       "Value": "мс",
@@ -2703,7 +2850,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 147
     },
     {
       "Value": "на",
@@ -2783,7 +2931,8 @@
           "Id": 11
         }
       ],
-      "Count": 9
+      "Count": 9,
+      "Id": 148
     },
     {
       "Value": "наблюда",
@@ -2796,7 +2945,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 149
     },
     {
       "Value": "наблюден",
@@ -2809,7 +2959,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 150
     },
     {
       "Value": "найд",
@@ -2822,7 +2973,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 151
     },
     {
       "Value": "найт",
@@ -2835,7 +2987,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 152
     },
     {
       "Value": "наклон",
@@ -2848,7 +3001,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 153
     },
     {
       "Value": "налич",
@@ -2861,7 +3015,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 154
     },
     {
       "Value": "настоя",
@@ -2874,7 +3029,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 155
     },
     {
       "Value": "не",
@@ -2899,7 +3055,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 156
     },
     {
       "Value": "независим",
@@ -2912,7 +3069,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 157
     },
     {
       "Value": "неконцентрическ",
@@ -2932,7 +3090,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 158
     },
     {
       "Value": "некотор",
@@ -2945,7 +3104,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 159
     },
     {
       "Value": "неположительн",
@@ -2958,7 +3118,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 160
     },
     {
       "Value": "непрерывн",
@@ -2984,7 +3145,8 @@
           "Id": 8
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 161
     },
     {
       "Value": "неравенств",
@@ -3010,7 +3172,8 @@
           "Id": 7
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 162
     },
     {
       "Value": "несжима",
@@ -3023,7 +3186,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 163
     },
     {
       "Value": "нестационарн",
@@ -3043,7 +3207,8 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 164
     },
     {
       "Value": "них",
@@ -3056,7 +3221,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 165
     },
     {
       "Value": "нов",
@@ -3069,7 +3235,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 166
     },
     {
       "Value": "нормальн",
@@ -3082,7 +3249,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 167
     },
     {
       "Value": "о",
@@ -3107,7 +3275,8 @@
           "Id": 8
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 168
     },
     {
       "Value": "облада",
@@ -3120,7 +3289,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 169
     },
     {
       "Value": "област",
@@ -3145,7 +3315,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 170
     },
     {
       "Value": "обобща",
@@ -3164,7 +3335,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 171
     },
     {
       "Value": "обобщен",
@@ -3189,7 +3361,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 172
     },
     {
       "Value": "оболочк",
@@ -3209,7 +3382,8 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 173
     },
     {
       "Value": "общ",
@@ -3228,7 +3402,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 174
     },
     {
       "Value": "ограничен",
@@ -3260,7 +3435,8 @@
           "Id": 8
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 175
     },
     {
       "Value": "одн",
@@ -3279,7 +3455,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 176
     },
     {
       "Value": "одномерн",
@@ -3292,7 +3469,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 177
     },
     {
       "Value": "однопараметрическ",
@@ -3305,7 +3483,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 178
     },
     {
       "Value": "означа",
@@ -3318,7 +3497,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 179
     },
     {
       "Value": "оператор",
@@ -3338,7 +3518,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 180
     },
     {
       "Value": "описан",
@@ -3351,7 +3532,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 181
     },
     {
       "Value": "описыва",
@@ -3364,7 +3546,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 182
     },
     {
       "Value": "определен",
@@ -3377,7 +3560,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 183
     },
     {
       "Value": "оптимальн",
@@ -3397,7 +3581,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 184
     },
     {
       "Value": "оригинал",
@@ -3410,7 +3595,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 185
     },
     {
       "Value": "ос",
@@ -3423,7 +3609,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 186
     },
     {
       "Value": "основ",
@@ -3436,7 +3623,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 187
     },
     {
       "Value": "основа",
@@ -3455,7 +3643,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 188
     },
     {
       "Value": "основн",
@@ -3480,7 +3669,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 189
     },
     {
       "Value": "осуществл",
@@ -3493,7 +3683,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 190
     },
     {
       "Value": "от",
@@ -3524,7 +3715,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 191
     },
     {
       "Value": "отмет",
@@ -3537,7 +3729,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 192
     },
     {
       "Value": "относительн",
@@ -3550,7 +3743,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 193
     },
     {
       "Value": "отошедш",
@@ -3563,7 +3757,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 194
     },
     {
       "Value": "отрезк",
@@ -3576,7 +3771,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 195
     },
     {
       "Value": "отсутств",
@@ -3589,7 +3785,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 196
     },
     {
       "Value": "оценк",
@@ -3602,7 +3799,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 197
     },
     {
       "Value": "пар",
@@ -3615,7 +3813,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 198
     },
     {
       "Value": "параболическ",
@@ -3635,7 +3834,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 199
     },
     {
       "Value": "параллельн",
@@ -3648,7 +3848,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 200
     },
     {
       "Value": "параметр",
@@ -3667,7 +3868,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 201
     },
     {
       "Value": "параметрическ",
@@ -3680,7 +3882,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 202
     },
     {
       "Value": "пенлев",
@@ -3693,7 +3896,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 203
     },
     {
       "Value": "перемен",
@@ -3719,7 +3923,8 @@
           "Id": 3
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 204
     },
     {
       "Value": "перемещен",
@@ -3732,7 +3937,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 205
     },
     {
       "Value": "переход",
@@ -3745,7 +3951,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 206
     },
     {
       "Value": "плавн",
@@ -3758,7 +3965,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 207
     },
     {
       "Value": "плоск",
@@ -3778,7 +3986,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 208
     },
     {
       "Value": "по",
@@ -3816,7 +4025,8 @@
           "Id": 9
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 209
     },
     {
       "Value": "поверхн",
@@ -3835,7 +4045,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 210
     },
     {
       "Value": "поверхностн",
@@ -3848,7 +4059,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 211
     },
     {
       "Value": "пограничн",
@@ -3868,7 +4080,8 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 212
     },
     {
       "Value": "погрешн",
@@ -3887,7 +4100,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 213
     },
     {
       "Value": "подготовительн",
@@ -3900,7 +4114,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 214
     },
     {
       "Value": "подтвержд",
@@ -3913,7 +4128,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 215
     },
     {
       "Value": "показа",
@@ -3938,7 +4154,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 216
     },
     {
       "Value": "пол",
@@ -3951,7 +4168,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 217
     },
     {
       "Value": "полиномиальн",
@@ -3971,7 +4189,8 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 218
     },
     {
       "Value": "полусферическ",
@@ -3984,7 +4203,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 219
     },
     {
       "Value": "получ",
@@ -4003,7 +4223,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 220
     },
     {
       "Value": "получен",
@@ -4028,7 +4249,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 221
     },
     {
       "Value": "понят",
@@ -4047,7 +4269,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 222
     },
     {
       "Value": "порожда",
@@ -4060,7 +4283,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 223
     },
     {
       "Value": "порядк",
@@ -4073,7 +4297,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 224
     },
     {
       "Value": "порядок",
@@ -4086,7 +4311,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 225
     },
     {
       "Value": "посвящ",
@@ -4099,7 +4325,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 226
     },
     {
       "Value": "последовательн",
@@ -4119,7 +4346,8 @@
           "Id": 4
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 227
     },
     {
       "Value": "постановк",
@@ -4132,7 +4360,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 228
     },
     {
       "Value": "постро",
@@ -4157,7 +4386,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 229
     },
     {
       "Value": "построен",
@@ -4170,7 +4400,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 230
     },
     {
       "Value": "поточечн",
@@ -4190,7 +4421,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 231
     },
     {
       "Value": "прав",
@@ -4203,7 +4435,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 232
     },
     {
       "Value": "предельн",
@@ -4216,7 +4449,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 233
     },
     {
       "Value": "предлож",
@@ -4229,7 +4463,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 234
     },
     {
       "Value": "предложен",
@@ -4242,7 +4477,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 235
     },
     {
       "Value": "предполага",
@@ -4255,7 +4491,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 236
     },
     {
       "Value": "представл",
@@ -4268,7 +4505,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 237
     },
     {
       "Value": "предшварциа",
@@ -4281,7 +4519,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 238
     },
     {
       "Value": "предшварциан",
@@ -4294,7 +4533,8 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 239
     },
     {
       "Value": "преобразован",
@@ -4307,7 +4547,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 240
     },
     {
       "Value": "при",
@@ -4356,7 +4597,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 7
+      "Count": 7,
+      "Id": 241
     },
     {
       "Value": "привед",
@@ -4387,7 +4629,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 242
     },
     {
       "Value": "привод",
@@ -4400,7 +4643,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 243
     },
     {
       "Value": "применен",
@@ -4426,7 +4670,8 @@
           "Id": 2
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 244
     },
     {
       "Value": "пример",
@@ -4445,7 +4690,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 245
     },
     {
       "Value": "принцип",
@@ -4458,7 +4704,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 246
     },
     {
       "Value": "присоединен",
@@ -4471,7 +4718,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 247
     },
     {
       "Value": "пристеночн",
@@ -4484,7 +4732,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 248
     },
     {
       "Value": "провед",
@@ -4497,7 +4746,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 249
     },
     {
       "Value": "продемонстрирова",
@@ -4510,7 +4760,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 250
     },
     {
       "Value": "производн",
@@ -4536,7 +4787,8 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 251
     },
     {
       "Value": "произвольн",
@@ -4549,7 +4801,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 252
     },
     {
       "Value": "происход",
@@ -4562,7 +4815,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 253
     },
     {
       "Value": "пространств",
@@ -4587,7 +4841,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 254
     },
     {
       "Value": "пространственновремен",
@@ -4600,7 +4855,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 255
     },
     {
       "Value": "прохожден",
@@ -4613,7 +4869,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 256
     },
     {
       "Value": "процесс",
@@ -4626,7 +4883,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 257
     },
     {
       "Value": "прям",
@@ -4639,7 +4897,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 258
     },
     {
       "Value": "прямоугольн",
@@ -4652,7 +4911,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 259
     },
     {
       "Value": "псевдообращен",
@@ -4672,7 +4932,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 260
     },
     {
       "Value": "работ",
@@ -4697,7 +4958,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 261
     },
     {
       "Value": "рабоч",
@@ -4710,7 +4972,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 262
     },
     {
       "Value": "равномерн",
@@ -4723,7 +4986,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 263
     },
     {
       "Value": "радиальн",
@@ -4742,7 +5006,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 264
     },
     {
       "Value": "различн",
@@ -4755,7 +5020,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 265
     },
     {
       "Value": "разложен",
@@ -4774,7 +5040,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 266
     },
     {
       "Value": "разностн",
@@ -4787,7 +5054,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 267
     },
     {
       "Value": "разрешим",
@@ -4800,7 +5068,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 268
     },
     {
       "Value": "ран",
@@ -4813,7 +5082,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 269
     },
     {
       "Value": "распределен",
@@ -4826,7 +5096,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 270
     },
     {
       "Value": "рассматрива",
@@ -4839,7 +5110,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 271
     },
     {
       "Value": "рассмотр",
@@ -4876,7 +5148,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 5
+      "Count": 5,
+      "Id": 272
     },
     {
       "Value": "рассмотрен",
@@ -4889,7 +5162,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 273
     },
     {
       "Value": "расстоян",
@@ -4902,7 +5176,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 274
     },
     {
       "Value": "растека",
@@ -4915,7 +5190,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 275
     },
     {
       "Value": "растекан",
@@ -4928,7 +5204,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 276
     },
     {
       "Value": "расчет",
@@ -4941,7 +5218,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 277
     },
     {
       "Value": "реализ",
@@ -4954,7 +5232,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 278
     },
     {
       "Value": "регуляризац",
@@ -4974,7 +5253,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 279
     },
     {
       "Value": "режим",
@@ -4987,7 +5267,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 280
     },
     {
       "Value": "резк",
@@ -5000,7 +5281,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 281
     },
     {
       "Value": "результат",
@@ -5025,7 +5307,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 282
     },
     {
       "Value": "реш",
@@ -5038,7 +5321,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 283
     },
     {
       "Value": "решен",
@@ -5088,7 +5372,8 @@
           "Id": 6
         }
       ],
-      "Count": 5
+      "Count": 5,
+      "Id": 284
     },
     {
       "Value": "ряд",
@@ -5101,7 +5386,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 285
     },
     {
       "Value": "с",
@@ -5181,7 +5467,8 @@
           "Id": 11
         }
       ],
-      "Count": 8
+      "Count": 8,
+      "Id": 286
     },
     {
       "Value": "сам",
@@ -5194,7 +5481,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 287
     },
     {
       "Value": "свед",
@@ -5207,7 +5495,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 288
     },
     {
       "Value": "свободн",
@@ -5220,7 +5509,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 289
     },
     {
       "Value": "сводим",
@@ -5240,7 +5530,8 @@
           "Id": 4
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 290
     },
     {
       "Value": "свойств",
@@ -5259,7 +5550,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 291
     },
     {
       "Value": "связ",
@@ -5272,7 +5564,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 292
     },
     {
       "Value": "связа",
@@ -5298,7 +5591,8 @@
           "Id": 8
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 293
     },
     {
       "Value": "сгуща",
@@ -5311,7 +5605,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 294
     },
     {
       "Value": "седлов",
@@ -5324,7 +5619,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 295
     },
     {
       "Value": "семейств",
@@ -5350,7 +5646,8 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 296
     },
     {
       "Value": "сетк",
@@ -5369,7 +5666,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 297
     },
     {
       "Value": "сеточн",
@@ -5382,7 +5680,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 298
     },
     {
       "Value": "систем",
@@ -5414,7 +5713,8 @@
           "Id": 2
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 299
     },
     {
       "Value": "скорост",
@@ -5433,7 +5733,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 300
     },
     {
       "Value": "след",
@@ -5446,7 +5747,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 301
     },
     {
       "Value": "сло",
@@ -5472,7 +5774,8 @@
           "Id": 3
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 302
     },
     {
       "Value": "служ",
@@ -5485,7 +5788,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 303
     },
     {
       "Value": "случ",
@@ -5504,7 +5808,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 304
     },
     {
       "Value": "случа",
@@ -5523,7 +5828,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 305
     },
     {
       "Value": "со",
@@ -5536,7 +5842,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 306
     },
     {
       "Value": "соболев",
@@ -5549,7 +5856,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 307
     },
     {
       "Value": "соверша",
@@ -5562,7 +5870,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 308
     },
     {
       "Value": "совпада",
@@ -5575,7 +5884,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 309
     },
     {
       "Value": "совпаден",
@@ -5588,7 +5898,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 310
     },
     {
       "Value": "содерж",
@@ -5601,7 +5912,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 311
     },
     {
       "Value": "соответств",
@@ -5650,7 +5962,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 7
+      "Count": 7,
+      "Id": 312
     },
     {
       "Value": "соотношен",
@@ -5669,7 +5982,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 313
     },
     {
       "Value": "состоя",
@@ -5682,7 +5996,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 314
     },
     {
       "Value": "состоян",
@@ -5702,7 +6017,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 315
     },
     {
       "Value": "специальн",
@@ -5715,7 +6031,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 316
     },
     {
       "Value": "сред",
@@ -5728,7 +6045,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 317
     },
     {
       "Value": "стабилизац",
@@ -5741,7 +6059,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 318
     },
     {
       "Value": "старш",
@@ -5754,7 +6073,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 319
     },
     {
       "Value": "стенк",
@@ -5774,7 +6094,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 320
     },
     {
       "Value": "степен",
@@ -5794,7 +6115,8 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 321
     },
     {
       "Value": "стру",
@@ -5807,7 +6129,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 322
     },
     {
       "Value": "сумматорн",
@@ -5827,7 +6150,8 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 323
     },
     {
       "Value": "суперпозиц",
@@ -5840,7 +6164,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 324
     },
     {
       "Value": "существен",
@@ -5853,7 +6178,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 325
     },
     {
       "Value": "существован",
@@ -5872,7 +6198,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 326
     },
     {
       "Value": "сфер",
@@ -5892,7 +6219,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 327
     },
     {
       "Value": "сферическ",
@@ -5905,7 +6233,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 328
     },
     {
       "Value": "сформулирова",
@@ -5918,7 +6247,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 329
     },
     {
       "Value": "схем",
@@ -5931,7 +6261,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 330
     },
     {
       "Value": "сходим",
@@ -5950,7 +6281,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 331
     },
     {
       "Value": "счетн",
@@ -5963,7 +6295,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 332
     },
     {
       "Value": "так",
@@ -5976,7 +6309,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 333
     },
     {
       "Value": "такж",
@@ -5989,7 +6323,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 334
     },
     {
       "Value": "теорем",
@@ -6002,7 +6337,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 335
     },
     {
       "Value": "термин",
@@ -6021,7 +6357,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 336
     },
     {
       "Value": "течен",
@@ -6041,7 +6378,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 337
     },
     {
       "Value": "тип",
@@ -6073,7 +6411,8 @@
           "Id": 7
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 338
     },
     {
       "Value": "то",
@@ -6086,7 +6425,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 339
     },
     {
       "Value": "тог",
@@ -6105,7 +6445,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 340
     },
     {
       "Value": "тождеств",
@@ -6125,7 +6466,8 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 341
     },
     {
       "Value": "тольк",
@@ -6138,7 +6480,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 342
     },
     {
       "Value": "тонк",
@@ -6151,7 +6494,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 343
     },
     {
       "Value": "точек",
@@ -6164,7 +6508,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 344
     },
     {
       "Value": "точк",
@@ -6183,7 +6528,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 345
     },
     {
       "Value": "три",
@@ -6196,7 +6542,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 346
     },
     {
       "Value": "у",
@@ -6209,7 +6556,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 347
     },
     {
       "Value": "увеличен",
@@ -6222,7 +6570,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 348
     },
     {
       "Value": "угл",
@@ -6235,7 +6584,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 349
     },
     {
       "Value": "углов",
@@ -6248,7 +6598,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 350
     },
     {
       "Value": "уда",
@@ -6261,7 +6612,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 351
     },
     {
       "Value": "удал",
@@ -6274,7 +6626,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 352
     },
     {
       "Value": "удар",
@@ -6294,7 +6647,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 353
     },
     {
       "Value": "ударн",
@@ -6307,7 +6661,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 354
     },
     {
       "Value": "удзав",
@@ -6320,7 +6675,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 355
     },
     {
       "Value": "удовлетворя",
@@ -6339,7 +6695,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 356
     },
     {
       "Value": "узл",
@@ -6352,7 +6709,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 357
     },
     {
       "Value": "указа",
@@ -6371,7 +6729,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 358
     },
     {
       "Value": "униформизац",
@@ -6384,7 +6743,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 359
     },
     {
       "Value": "управлен",
@@ -6404,7 +6764,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 360
     },
     {
       "Value": "упруг",
@@ -6430,7 +6791,8 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 361
     },
     {
       "Value": "уравнен",
@@ -6480,7 +6842,8 @@
           "Id": 2
         }
       ],
-      "Count": 6
+      "Count": 6,
+      "Id": 362
     },
     {
       "Value": "уровн",
@@ -6493,7 +6856,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 363
     },
     {
       "Value": "услов",
@@ -6518,7 +6882,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 364
     },
     {
       "Value": "устанавлива",
@@ -6531,7 +6896,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 365
     },
     {
       "Value": "установл",
@@ -6550,7 +6916,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 366
     },
     {
       "Value": "устойчив",
@@ -6563,7 +6930,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 367
     },
     {
       "Value": "уточня",
@@ -6576,7 +6944,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 368
     },
     {
       "Value": "физическ",
@@ -6589,7 +6958,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 369
     },
     {
       "Value": "форм",
@@ -6609,7 +6979,8 @@
           "Id": 7
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 370
     },
     {
       "Value": "формул",
@@ -6622,7 +6993,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 371
     },
     {
       "Value": "функц",
@@ -6684,7 +7056,8 @@
           "Id": 6
         }
       ],
-      "Count": 7
+      "Count": 7,
+      "Id": 372
     },
     {
       "Value": "функциона",
@@ -6703,7 +7076,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 373
     },
     {
       "Value": "функционал",
@@ -6716,7 +7090,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 374
     },
     {
       "Value": "фур",
@@ -6729,7 +7104,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 375
     },
     {
       "Value": "х",
@@ -6742,7 +7118,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 376
     },
     {
       "Value": "хадвигер",
@@ -6762,7 +7139,8 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 377
     },
     {
       "Value": "хорнич",
@@ -6775,7 +7153,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 378
     },
     {
       "Value": "цел",
@@ -6788,7 +7167,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 379
     },
     {
       "Value": "центр",
@@ -6801,7 +7181,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 380
     },
     {
       "Value": "цилиндрическ",
@@ -6827,7 +7208,8 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 381
     },
     {
       "Value": "част",
@@ -6840,7 +7222,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 382
     },
     {
       "Value": "частн",
@@ -6859,7 +7242,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 383
     },
     {
       "Value": "частност",
@@ -6872,7 +7256,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 384
     },
     {
       "Value": "частот",
@@ -6885,7 +7270,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 385
     },
     {
       "Value": "чем",
@@ -6898,7 +7284,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 386
     },
     {
       "Value": "через",
@@ -6917,7 +7304,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 387
     },
     {
       "Value": "числен",
@@ -6943,7 +7331,8 @@
           "Id": 6
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 388
     },
     {
       "Value": "что",
@@ -6980,7 +7369,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 5
+      "Count": 5,
+      "Id": 389
     },
     {
       "Value": "шаров",
@@ -6993,7 +7383,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 390
     },
     {
       "Value": "шишкин",
@@ -7006,7 +7397,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 391
     },
     {
       "Value": "эквивалентн",
@@ -7019,7 +7411,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 392
     },
     {
       "Value": "эксперимент",
@@ -7038,7 +7431,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 393
     },
     {
       "Value": "эллиптическ",
@@ -7051,7 +7445,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 394
     },
     {
       "Value": "эт",
@@ -7070,7 +7465,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 395
     },
     {
       "Value": "явля",
@@ -7101,7 +7497,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 396
     },
     {
       "Value": "явн",
@@ -7126,7 +7523,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 397
     },
     {
       "Value": "ядр",
@@ -7139,7 +7537,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 398
     },
     {
       "Value": "якобиа",
@@ -7152,7 +7551,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 399
     },
     {
       "Value": "а",
@@ -7165,13 +7565,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 0
     },
     {
       "Value": "адаптивн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 1
     },
     {
       "Value": "адаптивный",
@@ -7184,13 +7586,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 2
     },
     {
       "Value": "алгебр",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 3
     },
     {
       "Value": "алгебра",
@@ -7203,13 +7607,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 4
     },
     {
       "Value": "аналитическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 5
     },
     {
       "Value": "аналитически",
@@ -7222,7 +7628,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 6
     },
     {
       "Value": "аппарат",
@@ -7241,13 +7648,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 7
     },
     {
       "Value": "аппроксимац",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 8
     },
     {
       "Value": "аппроксимация",
@@ -7266,13 +7675,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 9
     },
     {
       "Value": "асимптотическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 10
     },
     {
       "Value": "асимптотически",
@@ -7285,13 +7696,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 11
     },
     {
       "Value": "ассоциативн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 12
     },
     {
       "Value": "ассоциативный",
@@ -7304,7 +7717,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 13
     },
     {
       "Value": "без",
@@ -7317,13 +7731,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 14
     },
     {
       "Value": "безударн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 15
     },
     {
       "Value": "безударный",
@@ -7336,13 +7752,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 16
     },
     {
       "Value": "бесконечн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 17
     },
     {
       "Value": "бесконечный",
@@ -7355,13 +7773,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 18
     },
     {
       "Value": "бол",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 19
     },
     {
       "Value": "более",
@@ -7374,13 +7794,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 20
     },
     {
       "Value": "больш",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 21
     },
     {
       "Value": "большой",
@@ -7400,13 +7822,15 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 22
     },
     {
       "Value": "бруннаминковск",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 23
     },
     {
       "Value": "бруннаминковский?",
@@ -7426,13 +7850,15 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 24
     },
     {
       "Value": "быт",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 25
     },
     {
       "Value": "быть",
@@ -7445,7 +7871,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 26
     },
     {
       "Value": "в",
@@ -7537,13 +7964,15 @@
           "Id": 7
         }
       ],
-      "Count": 11
+      "Count": 11,
+      "Id": 27
     },
     {
       "Value": "введен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 28
     },
     {
       "Value": "вводить",
@@ -7556,13 +7985,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 29
     },
     {
       "Value": "вейерштрасс",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 30
     },
     {
       "Value": "вейерштрасса?",
@@ -7575,7 +8006,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 31
     },
     {
       "Value": "вектор",
@@ -7588,13 +8020,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 32
     },
     {
       "Value": "взаимосвяз",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 33
     },
     {
       "Value": "взаимосвязь",
@@ -7607,7 +8041,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 34
     },
     {
       "Value": "вид",
@@ -7638,13 +8073,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 35
     },
     {
       "Value": "влиян",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 36
     },
     {
       "Value": "влияние",
@@ -7657,13 +8094,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 37
     },
     {
       "Value": "внешн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 38
     },
     {
       "Value": "внешний",
@@ -7676,13 +8115,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 39
     },
     {
       "Value": "воздейств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 40
     },
     {
       "Value": "воздействие",
@@ -7708,13 +8149,15 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 41
     },
     {
       "Value": "возмущен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 42
     },
     {
       "Value": "возмущение",
@@ -7727,13 +8170,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 43
     },
     {
       "Value": "волн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 44
     },
     {
       "Value": "волна",
@@ -7752,7 +8197,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 45
     },
     {
       "Value": "вопрос",
@@ -7765,13 +8211,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 46
     },
     {
       "Value": "враща",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 47
     },
     {
       "Value": "вращаться",
@@ -7784,13 +8232,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 48
     },
     {
       "Value": "вращен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 49
     },
     {
       "Value": "вращение",
@@ -7810,13 +8260,15 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 50
     },
     {
       "Value": "времен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 51
     },
     {
       "Value": "время",
@@ -7835,13 +8287,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 52
     },
     {
       "Value": "всевозможн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 53
     },
     {
       "Value": "всевозможный",
@@ -7854,13 +8308,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 54
     },
     {
       "Value": "входн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 55
     },
     {
       "Value": "входной",
@@ -7880,7 +8336,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 56
     },
     {
       "Value": "выбор",
@@ -7893,13 +8350,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 57
     },
     {
       "Value": "выделен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 58
     },
     {
       "Value": "выделение",
@@ -7912,13 +8371,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 59
     },
     {
       "Value": "высокоскоростн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 60
     },
     {
       "Value": "высокоскоростной",
@@ -7931,13 +8392,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 61
     },
     {
       "Value": "вычислительн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 62
     },
     {
       "Value": "вычислительный",
@@ -7950,13 +8413,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 63
     },
     {
       "Value": "выявл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 64
     },
     {
       "Value": "выявлять",
@@ -7969,13 +8434,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 65
     },
     {
       "Value": "вязк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 66
     },
     {
       "Value": "вязкий",
@@ -7988,13 +8455,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 67
     },
     {
       "Value": "газов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 68
     },
     {
       "Value": "газовый",
@@ -8007,13 +8476,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 69
     },
     {
       "Value": "гахов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 70
     },
     {
       "Value": "гахов?",
@@ -8026,7 +8497,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 71
     },
     {
       "Value": "где",
@@ -8039,7 +8511,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 72
     },
     {
       "Value": "гильбертов",
@@ -8052,13 +8525,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 73
     },
     {
       "Value": "гиперболическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 74
     },
     {
       "Value": "гиперболический",
@@ -8078,13 +8553,15 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 75
     },
     {
       "Value": "гиперплоск",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 76
     },
     {
       "Value": "гиперплоскость?",
@@ -8097,13 +8574,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 77
     },
     {
       "Value": "гладкост",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 78
     },
     {
       "Value": "гладкость",
@@ -8116,13 +8595,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 79
     },
     {
       "Value": "голоморфн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 80
     },
     {
       "Value": "голоморфный",
@@ -8135,7 +8616,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 81
     },
     {
       "Value": "градиент",
@@ -8155,13 +8637,15 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 82
     },
     {
       "Value": "градиентн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 83
     },
     {
       "Value": "градиентный",
@@ -8174,13 +8658,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 84
     },
     {
       "Value": "границ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 85
     },
     {
       "Value": "граница",
@@ -8199,13 +8685,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 86
     },
     {
       "Value": "граничн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 87
     },
     {
       "Value": "граничный",
@@ -8225,13 +8713,15 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 88
     },
     {
       "Value": "давлен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 89
     },
     {
       "Value": "давление",
@@ -8251,13 +8741,15 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 90
     },
     {
       "Value": "дальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 91
     },
     {
       "Value": "дальнейший",
@@ -8270,13 +8762,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 92
     },
     {
       "Value": "дан",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 93
     },
     {
       "Value": "данна",
@@ -8289,7 +8783,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 94
     },
     {
       "Value": "данный",
@@ -8302,7 +8797,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 95
     },
     {
       "Value": "два",
@@ -8340,13 +8836,15 @@
           "Id": 3
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 96
     },
     {
       "Value": "движен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 97
     },
     {
       "Value": "движение",
@@ -8359,13 +8857,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 98
     },
     {
       "Value": "двойн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 99
     },
     {
       "Value": "двойной",
@@ -8378,19 +8878,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 100
     },
     {
       "Value": "двум",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 101
     },
     {
       "Value": "двупараметрическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 102
     },
     {
       "Value": "двупараметрический?",
@@ -8403,19 +8906,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 103
     },
     {
       "Value": "двух",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 104
     },
     {
       "Value": "действ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 105
     },
     {
       "Value": "действие",
@@ -8428,7 +8934,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 106
     },
     {
       "Value": "диапазон",
@@ -8441,13 +8948,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 107
     },
     {
       "Value": "динамик",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 108
     },
     {
       "Value": "динамика",
@@ -8473,13 +8982,15 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 109
     },
     {
       "Value": "динамическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 110
     },
     {
       "Value": "динамически",
@@ -8492,13 +9003,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 111
     },
     {
       "Value": "дирихл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 112
     },
     {
       "Value": "дирихла?",
@@ -8511,13 +9024,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 113
     },
     {
       "Value": "дифференциальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 114
     },
     {
       "Value": "дифференциальный",
@@ -8537,7 +9052,8 @@
           "Id": 10
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 115
     },
     {
       "Value": "для",
@@ -8611,19 +9127,22 @@
           "Id": 7
         }
       ],
-      "Count": 9
+      "Count": 9,
+      "Id": 116
     },
     {
       "Value": "доказа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 117
     },
     {
       "Value": "доказательств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 118
     },
     {
       "Value": "доказательство",
@@ -8636,7 +9155,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 119
     },
     {
       "Value": "доказывать",
@@ -8661,13 +9181,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 120
     },
     {
       "Value": "дополнительн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 121
     },
     {
       "Value": "дополнительность",
@@ -8680,7 +9202,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 122
     },
     {
       "Value": "дополнительный",
@@ -8712,13 +9235,15 @@
           "Id": 8
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 123
     },
     {
       "Value": "достаточн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 124
     },
     {
       "Value": "достаточный",
@@ -8731,7 +9256,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 125
     },
     {
       "Value": "друг",
@@ -8750,13 +9276,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 126
     },
     {
       "Value": "е",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 127
     },
     {
       "Value": "евклидов",
@@ -8769,13 +9297,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 128
     },
     {
       "Value": "единичн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 129
     },
     {
       "Value": "единичный",
@@ -8788,13 +9318,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 130
     },
     {
       "Value": "единствен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 131
     },
     {
       "Value": "единственность",
@@ -8807,7 +9339,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 132
     },
     {
       "Value": "единственный",
@@ -8820,7 +9353,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 133
     },
     {
       "Value": "же",
@@ -8839,13 +9373,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 134
     },
     {
       "Value": "жестк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 135
     },
     {
       "Value": "жесткий",
@@ -8865,13 +9401,15 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 136
     },
     {
       "Value": "жидк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 137
     },
     {
       "Value": "жидкий",
@@ -8891,13 +9429,15 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 138
     },
     {
       "Value": "жидкост",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 139
     },
     {
       "Value": "жидкость",
@@ -8923,7 +9463,8 @@
           "Id": 10
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 140
     },
     {
       "Value": "зависеть",
@@ -8936,19 +9477,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 141
     },
     {
       "Value": "завися",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 142
     },
     {
       "Value": "задач",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 143
     },
     {
       "Value": "задача",
@@ -9016,19 +9560,22 @@
           "Id": 8
         }
       ],
-      "Count": 7
+      "Count": 7,
+      "Id": 144
     },
     {
       "Value": "заполнен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 145
     },
     {
       "Value": "заполнител",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 146
     },
     {
       "Value": "заполнитель",
@@ -9041,7 +9588,8 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 147
     },
     {
       "Value": "заполнять",
@@ -9054,7 +9602,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 148
     },
     {
       "Value": "и",
@@ -9128,7 +9677,8 @@
           "Id": 4
         }
       ],
-      "Count": 10
+      "Count": 10,
+      "Id": 149
     },
     {
       "Value": "идеал",
@@ -9141,7 +9691,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 150
     },
     {
       "Value": "из",
@@ -9154,13 +9705,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 151
     },
     {
       "Value": "известн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 152
     },
     {
       "Value": "известно",
@@ -9173,7 +9726,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 153
     },
     {
       "Value": "известный",
@@ -9192,13 +9746,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 154
     },
     {
       "Value": "изменен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 155
     },
     {
       "Value": "изменение",
@@ -9211,13 +9767,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 156
     },
     {
       "Value": "изуч",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 157
     },
     {
       "Value": "изучать",
@@ -9230,13 +9788,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 158
     },
     {
       "Value": "имеет",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 159
     },
     {
       "Value": "иметь",
@@ -9261,13 +9821,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 160
     },
     {
       "Value": "интегральн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 161
     },
     {
       "Value": "интегральный",
@@ -9280,7 +9842,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 162
     },
     {
       "Value": "интерполировать",
@@ -9293,25 +9856,29 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 163
     },
     {
       "Value": "интерполируем",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 164
     },
     {
       "Value": "интерполяц",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 165
     },
     {
       "Value": "интерполяцион",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 166
     },
     {
       "Value": "интерполяционный",
@@ -9324,7 +9891,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 167
     },
     {
       "Value": "интерполяция",
@@ -9344,13 +9912,15 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 168
     },
     {
       "Value": "иском",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 169
     },
     {
       "Value": "искомый",
@@ -9363,25 +9933,29 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 170
     },
     {
       "Value": "использ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 171
     },
     {
       "Value": "использова",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 172
     },
     {
       "Value": "использован",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 173
     },
     {
       "Value": "использование",
@@ -9400,7 +9974,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 174
     },
     {
       "Value": "использовать",
@@ -9419,7 +9994,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 175
     },
     {
       "Value": "использоваться",
@@ -9444,19 +10020,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 176
     },
     {
       "Value": "исследова",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 177
     },
     {
       "Value": "исследован",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 178
     },
     {
       "Value": "исследование",
@@ -9475,7 +10054,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 179
     },
     {
       "Value": "исследовать",
@@ -9506,13 +10086,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 180
     },
     {
       "Value": "итерацион",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 181
     },
     {
       "Value": "итерационный",
@@ -9525,13 +10107,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 182
     },
     {
       "Value": "их",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 183
     },
     {
       "Value": "к",
@@ -9556,13 +10140,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 184
     },
     {
       "Value": "капелл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 185
     },
     {
       "Value": "капелли?",
@@ -9582,13 +10168,15 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 186
     },
     {
       "Value": "квазилевнеровск",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 187
     },
     {
       "Value": "квазилевнеровский?",
@@ -9608,13 +10196,15 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 188
     },
     {
       "Value": "квазимногочлен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 189
     },
     {
       "Value": "квазимногочлен?",
@@ -9627,7 +10217,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 190
     },
     {
       "Value": "класс",
@@ -9658,13 +10249,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 191
     },
     {
       "Value": "когд",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 192
     },
     {
       "Value": "когда",
@@ -9683,13 +10276,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 193
     },
     {
       "Value": "комплекснозначн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 194
     },
     {
       "Value": "комплекснозначный?",
@@ -9702,7 +10297,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 195
     },
     {
       "Value": "конец",
@@ -9715,13 +10311,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 196
     },
     {
       "Value": "конечноразностн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 197
     },
     {
       "Value": "конечноразностный?",
@@ -9734,13 +10332,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 198
     },
     {
       "Value": "конкретн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 199
     },
     {
       "Value": "конкретный",
@@ -9753,13 +10353,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 200
     },
     {
       "Value": "конструкц",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 201
     },
     {
       "Value": "конструкция",
@@ -9772,7 +10374,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 202
     },
     {
       "Value": "контекст",
@@ -9785,7 +10388,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 203
     },
     {
       "Value": "конус",
@@ -9805,13 +10409,15 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 204
     },
     {
       "Value": "конусообразн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 205
     },
     {
       "Value": "конусообразный",
@@ -9824,19 +10430,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 206
     },
     {
       "Value": "конц",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 207
     },
     {
       "Value": "котор",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 208
     },
     {
       "Value": "который",
@@ -9861,13 +10470,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 209
     },
     {
       "Value": "кош",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 210
     },
     {
       "Value": "коши",
@@ -9880,7 +10491,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 211
     },
     {
       "Value": "коэффициент",
@@ -9899,13 +10511,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 212
     },
     {
       "Value": "краев",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 213
     },
     {
       "Value": "краевой",
@@ -9918,13 +10532,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 214
     },
     {
       "Value": "кратн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 215
     },
     {
       "Value": "кратный",
@@ -9944,13 +10560,15 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 216
     },
     {
       "Value": "критическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 217
     },
     {
       "Value": "критический",
@@ -9963,13 +10581,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 218
     },
     {
       "Value": "кром",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 219
     },
     {
       "Value": "кроме",
@@ -9988,7 +10608,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 220
     },
     {
       "Value": "круг",
@@ -10001,13 +10622,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 221
     },
     {
       "Value": "кругов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 222
     },
     {
       "Value": "круговой",
@@ -10020,13 +10643,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 223
     },
     {
       "Value": "кусочноравномерн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 224
     },
     {
       "Value": "кусочноравномерный?",
@@ -10039,7 +10664,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 225
     },
     {
       "Value": "лагранж",
@@ -10052,13 +10678,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 226
     },
     {
       "Value": "лам",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 227
     },
     {
       "Value": "лама",
@@ -10078,7 +10706,8 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 228
     },
     {
       "Value": "лаплас",
@@ -10091,19 +10720,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 229
     },
     {
       "Value": "лин",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 230
     },
     {
       "Value": "линейн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 231
     },
     {
       "Value": "линейный",
@@ -10116,7 +10748,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 232
     },
     {
       "Value": "линия",
@@ -10129,7 +10762,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 233
     },
     {
       "Value": "луч",
@@ -10142,13 +10776,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 234
     },
     {
       "Value": "мал",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 235
     },
     {
       "Value": "малый",
@@ -10173,13 +10809,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 236
     },
     {
       "Value": "марксаштрохеккер",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 237
     },
     {
       "Value": "марксаштрохеккер?",
@@ -10192,13 +10830,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 238
     },
     {
       "Value": "масс",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 239
     },
     {
       "Value": "масса",
@@ -10211,13 +10851,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 240
     },
     {
       "Value": "межд",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 241
     },
     {
       "Value": "между",
@@ -10255,13 +10897,15 @@
           "Id": 10
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 242
     },
     {
       "Value": "межфазн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 243
     },
     {
       "Value": "межфазный",
@@ -10274,13 +10918,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 244
     },
     {
       "Value": "мест",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 245
     },
     {
       "Value": "место",
@@ -10293,7 +10939,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 246
     },
     {
       "Value": "метод",
@@ -10325,7 +10972,8 @@
           "Id": 8
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 247
     },
     {
       "Value": "метода",
@@ -10351,7 +10999,8 @@
           "Id": 2
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 248
     },
     {
       "Value": "минимум",
@@ -10364,13 +11013,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 249
     },
     {
       "Value": "мног",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 250
     },
     {
       "Value": "многий",
@@ -10383,13 +11034,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 251
     },
     {
       "Value": "многочл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 252
     },
     {
       "Value": "многочлен",
@@ -10409,13 +11062,15 @@
           "Id": 1
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 253
     },
     {
       "Value": "множеств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 254
     },
     {
       "Value": "множество",
@@ -10447,13 +11102,15 @@
           "Id": 4
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 255
     },
     {
       "Value": "моделирован",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 256
     },
     {
       "Value": "моделирование",
@@ -10466,7 +11123,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 257
     },
     {
       "Value": "может",
@@ -10479,7 +11137,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 258
     },
     {
       "Value": "момент",
@@ -10499,13 +11158,15 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 259
     },
     {
       "Value": "монотон",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 260
     },
     {
       "Value": "монотонный",
@@ -10518,13 +11179,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 261
     },
     {
       "Value": "мс",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 262
     },
     {
       "Value": "мс??",
@@ -10537,7 +11200,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 263
     },
     {
       "Value": "на",
@@ -10617,13 +11281,15 @@
           "Id": 11
         }
       ],
-      "Count": 9
+      "Count": 9,
+      "Id": 264
     },
     {
       "Value": "наблюда",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 265
     },
     {
       "Value": "наблюдаться",
@@ -10636,13 +11302,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 266
     },
     {
       "Value": "наблюден",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 267
     },
     {
       "Value": "наблюдение",
@@ -10655,19 +11323,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 268
     },
     {
       "Value": "найд",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 269
     },
     {
       "Value": "найт",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 270
     },
     {
       "Value": "наклон",
@@ -10680,13 +11351,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 271
     },
     {
       "Value": "налич",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 272
     },
     {
       "Value": "наличие",
@@ -10699,13 +11372,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 273
     },
     {
       "Value": "настоя",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 274
     },
     {
       "Value": "настоящий",
@@ -10718,7 +11393,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 275
     },
     {
       "Value": "находить",
@@ -10737,7 +11413,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 276
     },
     {
       "Value": "не",
@@ -10756,13 +11433,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 277
     },
     {
       "Value": "независим",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 278
     },
     {
       "Value": "независимость",
@@ -10775,13 +11454,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 279
     },
     {
       "Value": "неконцентрическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 280
     },
     {
       "Value": "неконцентрический",
@@ -10801,13 +11482,15 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 281
     },
     {
       "Value": "некотор",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 282
     },
     {
       "Value": "некоторые",
@@ -10820,13 +11503,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 283
     },
     {
       "Value": "неположительн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 284
     },
     {
       "Value": "неположительность?",
@@ -10839,13 +11524,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 285
     },
     {
       "Value": "непрерывн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 286
     },
     {
       "Value": "непрерывный",
@@ -10871,13 +11558,15 @@
           "Id": 8
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 287
     },
     {
       "Value": "неравенств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 288
     },
     {
       "Value": "неравенство",
@@ -10903,13 +11592,15 @@
           "Id": 7
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 289
     },
     {
       "Value": "несжима",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 290
     },
     {
       "Value": "несжимаемый",
@@ -10922,13 +11613,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 291
     },
     {
       "Value": "нестационарн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 292
     },
     {
       "Value": "нестационарный",
@@ -10948,19 +11641,22 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 293
     },
     {
       "Value": "них",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 294
     },
     {
       "Value": "нов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 295
     },
     {
       "Value": "новый",
@@ -10973,13 +11669,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 296
     },
     {
       "Value": "нормальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 297
     },
     {
       "Value": "нормальный",
@@ -10992,7 +11690,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 298
     },
     {
       "Value": "о",
@@ -11017,13 +11716,15 @@
           "Id": 8
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 299
     },
     {
       "Value": "облада",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 300
     },
     {
       "Value": "обладать",
@@ -11036,13 +11737,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 301
     },
     {
       "Value": "област",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 302
     },
     {
       "Value": "область",
@@ -11067,13 +11770,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 303
     },
     {
       "Value": "обобща",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 304
     },
     {
       "Value": "обобщать",
@@ -11092,13 +11797,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 305
     },
     {
       "Value": "обобщен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 306
     },
     {
       "Value": "обобщенный",
@@ -11123,13 +11830,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 307
     },
     {
       "Value": "оболочк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 308
     },
     {
       "Value": "оболочка",
@@ -11149,13 +11858,15 @@
           "Id": 11
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 309
     },
     {
       "Value": "общ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 310
     },
     {
       "Value": "общий",
@@ -11174,13 +11885,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 311
     },
     {
       "Value": "ограничен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 312
     },
     {
       "Value": "ограничение",
@@ -11206,7 +11919,8 @@
           "Id": 8
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 313
     },
     {
       "Value": "ограниченный",
@@ -11219,7 +11933,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 314
     },
     {
       "Value": "один",
@@ -11238,19 +11953,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 315
     },
     {
       "Value": "одн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 316
     },
     {
       "Value": "одномерн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 317
     },
     {
       "Value": "одномерный",
@@ -11263,13 +11981,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 318
     },
     {
       "Value": "однопараметрическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 319
     },
     {
       "Value": "однопараметрический?",
@@ -11282,13 +12002,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 320
     },
     {
       "Value": "означа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 321
     },
     {
       "Value": "означать",
@@ -11301,7 +12023,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 322
     },
     {
       "Value": "она",
@@ -11332,7 +12055,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 323
     },
     {
       "Value": "они",
@@ -11351,7 +12075,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 324
     },
     {
       "Value": "оператор",
@@ -11371,13 +12096,15 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 325
     },
     {
       "Value": "описан",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 326
     },
     {
       "Value": "описание",
@@ -11390,13 +12117,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 327
     },
     {
       "Value": "описыва",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 328
     },
     {
       "Value": "описывать",
@@ -11409,13 +12138,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 329
     },
     {
       "Value": "определен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 330
     },
     {
       "Value": "определенный",
@@ -11428,13 +12159,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 331
     },
     {
       "Value": "оптимальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 332
     },
     {
       "Value": "оптимальный",
@@ -11454,7 +12187,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 333
     },
     {
       "Value": "оригинал",
@@ -11467,19 +12201,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 334
     },
     {
       "Value": "ос",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 335
     },
     {
       "Value": "основ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 336
     },
     {
       "Value": "основа",
@@ -11492,13 +12229,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 337
     },
     {
       "Value": "основн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 338
     },
     {
       "Value": "основной",
@@ -11523,7 +12262,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 339
     },
     {
       "Value": "основывать",
@@ -11542,13 +12282,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 340
     },
     {
       "Value": "осуществл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 341
     },
     {
       "Value": "осуществлять",
@@ -11561,7 +12303,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 342
     },
     {
       "Value": "ось",
@@ -11574,7 +12317,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 343
     },
     {
       "Value": "от",
@@ -11605,13 +12349,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 344
     },
     {
       "Value": "отмет",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 345
     },
     {
       "Value": "отмечать",
@@ -11624,13 +12370,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 346
     },
     {
       "Value": "относительн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 347
     },
     {
       "Value": "относительно",
@@ -11643,19 +12391,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 348
     },
     {
       "Value": "отошедш",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 349
     },
     {
       "Value": "отрезк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 350
     },
     {
       "Value": "отрезок",
@@ -11668,13 +12419,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 351
     },
     {
       "Value": "отсутств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 352
     },
     {
       "Value": "отсутствие",
@@ -11687,7 +12440,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 353
     },
     {
       "Value": "отходить",
@@ -11700,13 +12454,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 354
     },
     {
       "Value": "оценк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 355
     },
     {
       "Value": "оценка",
@@ -11719,13 +12475,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 356
     },
     {
       "Value": "пар",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 357
     },
     {
       "Value": "пара",
@@ -11738,13 +12496,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 358
     },
     {
       "Value": "параболическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 359
     },
     {
       "Value": "параболический",
@@ -11764,13 +12524,15 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 360
     },
     {
       "Value": "параллельн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 361
     },
     {
       "Value": "параллельный",
@@ -11783,7 +12545,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 362
     },
     {
       "Value": "параметр",
@@ -11802,13 +12565,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 363
     },
     {
       "Value": "параметрическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 364
     },
     {
       "Value": "параметрический",
@@ -11821,13 +12586,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 365
     },
     {
       "Value": "пенлев",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 366
     },
     {
       "Value": "пенлеве?",
@@ -11840,13 +12607,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 367
     },
     {
       "Value": "перемен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 368
     },
     {
       "Value": "переменный",
@@ -11872,13 +12641,15 @@
           "Id": 3
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 369
     },
     {
       "Value": "перемещен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 370
     },
     {
       "Value": "перемещение",
@@ -11891,7 +12662,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 371
     },
     {
       "Value": "переход",
@@ -11904,13 +12676,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 372
     },
     {
       "Value": "плавн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 373
     },
     {
       "Value": "плавный",
@@ -11923,13 +12697,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 374
     },
     {
       "Value": "плоск",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 375
     },
     {
       "Value": "плоский",
@@ -11949,7 +12725,8 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 376
     },
     {
       "Value": "по",
@@ -11987,19 +12764,22 @@
           "Id": 9
         }
       ],
-      "Count": 4
+      "Count": 4,
+      "Id": 377
     },
     {
       "Value": "поверхн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 378
     },
     {
       "Value": "поверхностн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 379
     },
     {
       "Value": "поверхностный",
@@ -12012,7 +12792,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 380
     },
     {
       "Value": "поверхность",
@@ -12031,13 +12812,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 381
     },
     {
       "Value": "пограничн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 382
     },
     {
       "Value": "пограничный",
@@ -12057,13 +12840,15 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 383
     },
     {
       "Value": "погрешн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 384
     },
     {
       "Value": "погрешность",
@@ -12082,13 +12867,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 385
     },
     {
       "Value": "подготовительн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 386
     },
     {
       "Value": "подготовительный",
@@ -12101,13 +12888,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 387
     },
     {
       "Value": "подтвержд",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 388
     },
     {
       "Value": "подтверждать",
@@ -12120,13 +12909,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 389
     },
     {
       "Value": "показа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 390
     },
     {
       "Value": "показывать",
@@ -12151,13 +12942,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 391
     },
     {
       "Value": "пол",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 392
     },
     {
       "Value": "поле",
@@ -12170,13 +12963,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 393
     },
     {
       "Value": "полиномиальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 394
     },
     {
       "Value": "полиномиальный",
@@ -12196,13 +12991,15 @@
           "Id": 3
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 395
     },
     {
       "Value": "полусферическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 396
     },
     {
       "Value": "полусферический?",
@@ -12215,13 +13012,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 397
     },
     {
       "Value": "получ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 398
     },
     {
       "Value": "получать",
@@ -12252,13 +13051,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 399
     },
     {
       "Value": "получен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 400
     },
     {
       "Value": "получение",
@@ -12271,13 +13072,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 401
     },
     {
       "Value": "понят",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 402
     },
     {
       "Value": "понятие",
@@ -12296,13 +13099,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 403
     },
     {
       "Value": "порожда",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 404
     },
     {
       "Value": "порождать",
@@ -12315,13 +13120,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 405
     },
     {
       "Value": "порядк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 406
     },
     {
       "Value": "порядок",
@@ -12340,13 +13147,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 407
     },
     {
       "Value": "посвящ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 408
     },
     {
       "Value": "посвящать",
@@ -12359,13 +13168,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 409
     },
     {
       "Value": "последовательн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 410
     },
     {
       "Value": "последовательность",
@@ -12385,13 +13196,15 @@
           "Id": 4
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 411
     },
     {
       "Value": "постановк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 412
     },
     {
       "Value": "постановка",
@@ -12404,19 +13217,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 413
     },
     {
       "Value": "постро",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 414
     },
     {
       "Value": "построен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 415
     },
     {
       "Value": "построение",
@@ -12429,7 +13245,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 416
     },
     {
       "Value": "построить",
@@ -12454,13 +13271,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 417
     },
     {
       "Value": "поточечн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 418
     },
     {
       "Value": "поточечный",
@@ -12480,13 +13299,15 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 419
     },
     {
       "Value": "прав",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 420
     },
     {
       "Value": "правый",
@@ -12499,13 +13320,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 421
     },
     {
       "Value": "предельн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 422
     },
     {
       "Value": "предельно",
@@ -12518,7 +13341,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 423
     },
     {
       "Value": "предлагать",
@@ -12537,25 +13361,29 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 424
     },
     {
       "Value": "предлож",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 425
     },
     {
       "Value": "предложен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 426
     },
     {
       "Value": "предполага",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 427
     },
     {
       "Value": "предполагаться",
@@ -12568,13 +13396,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 428
     },
     {
       "Value": "представл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 429
     },
     {
       "Value": "представлять",
@@ -12587,19 +13417,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 430
     },
     {
       "Value": "предшварциа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 431
     },
     {
       "Value": "предшварциан",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 432
     },
     {
       "Value": "предшварциан?",
@@ -12612,7 +13445,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 433
     },
     {
       "Value": "предшварциана?",
@@ -12625,7 +13459,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 434
     },
     {
       "Value": "предшварцианов?",
@@ -12638,13 +13473,15 @@
           "Id": 5
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 435
     },
     {
       "Value": "преобразован",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 436
     },
     {
       "Value": "преобразование",
@@ -12657,7 +13494,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 437
     },
     {
       "Value": "при",
@@ -12706,19 +13544,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 7
+      "Count": 7,
+      "Id": 438
     },
     {
       "Value": "привед",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 439
     },
     {
       "Value": "привод",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 440
     },
     {
       "Value": "приводить",
@@ -12755,13 +13596,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 5
+      "Count": 5,
+      "Id": 441
     },
     {
       "Value": "применен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 442
     },
     {
       "Value": "применение",
@@ -12787,7 +13630,8 @@
           "Id": 2
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 443
     },
     {
       "Value": "пример",
@@ -12806,7 +13650,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 444
     },
     {
       "Value": "принцип",
@@ -12819,13 +13664,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 445
     },
     {
       "Value": "присоединен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 446
     },
     {
       "Value": "присоединять",
@@ -12838,13 +13685,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 447
     },
     {
       "Value": "пристеночн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 448
     },
     {
       "Value": "пристеночный",
@@ -12857,13 +13706,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 449
     },
     {
       "Value": "провед",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 450
     },
     {
       "Value": "проводить",
@@ -12876,13 +13727,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 451
     },
     {
       "Value": "продемонстрирова",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 452
     },
     {
       "Value": "продемонстрировать",
@@ -12895,13 +13748,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 453
     },
     {
       "Value": "производн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 454
     },
     {
       "Value": "производная",
@@ -12914,7 +13769,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 455
     },
     {
       "Value": "производный",
@@ -12940,13 +13796,15 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 456
     },
     {
       "Value": "произвольн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 457
     },
     {
       "Value": "произвольный",
@@ -12959,13 +13817,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 458
     },
     {
       "Value": "происход",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 459
     },
     {
       "Value": "происходить",
@@ -12978,19 +13838,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 460
     },
     {
       "Value": "пространств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 461
     },
     {
       "Value": "пространственновремен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 462
     },
     {
       "Value": "пространственновременный?",
@@ -13003,7 +13866,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 463
     },
     {
       "Value": "пространство",
@@ -13028,13 +13892,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 464
     },
     {
       "Value": "прохожден",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 465
     },
     {
       "Value": "прохождение",
@@ -13047,7 +13913,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 466
     },
     {
       "Value": "процесс",
@@ -13060,13 +13927,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 467
     },
     {
       "Value": "прям",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 468
     },
     {
       "Value": "прямой",
@@ -13079,13 +13948,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 469
     },
     {
       "Value": "прямоугольн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 470
     },
     {
       "Value": "прямоугольный",
@@ -13098,13 +13969,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 471
     },
     {
       "Value": "псевдообращен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 472
     },
     {
       "Value": "псевдообращение?",
@@ -13124,13 +13997,15 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 473
     },
     {
       "Value": "работ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 474
     },
     {
       "Value": "работа",
@@ -13155,13 +14030,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 475
     },
     {
       "Value": "рабоч",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 476
     },
     {
       "Value": "рабочий",
@@ -13174,13 +14051,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 477
     },
     {
       "Value": "равномерн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 478
     },
     {
       "Value": "равномерный",
@@ -13193,13 +14072,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 479
     },
     {
       "Value": "радиальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 480
     },
     {
       "Value": "радиально",
@@ -13212,7 +14093,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 481
     },
     {
       "Value": "радиальный",
@@ -13225,13 +14107,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 482
     },
     {
       "Value": "различн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 483
     },
     {
       "Value": "различный",
@@ -13244,13 +14128,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 484
     },
     {
       "Value": "разложен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 485
     },
     {
       "Value": "разложение",
@@ -13269,13 +14155,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 486
     },
     {
       "Value": "разностн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 487
     },
     {
       "Value": "разностный",
@@ -13288,13 +14176,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 488
     },
     {
       "Value": "разрешим",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 489
     },
     {
       "Value": "разрешимость",
@@ -13307,13 +14197,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 490
     },
     {
       "Value": "ран",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 491
     },
     {
       "Value": "ранее",
@@ -13326,13 +14218,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 492
     },
     {
       "Value": "распределен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 493
     },
     {
       "Value": "распределенный",
@@ -13345,13 +14239,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 494
     },
     {
       "Value": "рассматрива",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 495
     },
     {
       "Value": "рассматривать",
@@ -13394,25 +14290,29 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 6
+      "Count": 6,
+      "Id": 496
     },
     {
       "Value": "рассмотр",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 497
     },
     {
       "Value": "рассмотрен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 498
     },
     {
       "Value": "расстоян",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 499
     },
     {
       "Value": "расстояние",
@@ -13425,19 +14325,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 500
     },
     {
       "Value": "растека",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 501
     },
     {
       "Value": "растекан",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 502
     },
     {
       "Value": "растекание",
@@ -13450,7 +14353,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 503
     },
     {
       "Value": "растекаться",
@@ -13463,7 +14367,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 504
     },
     {
       "Value": "расчет",
@@ -13476,13 +14381,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 505
     },
     {
       "Value": "реализ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 506
     },
     {
       "Value": "реализоваться",
@@ -13495,13 +14402,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 507
     },
     {
       "Value": "регуляризац",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 508
     },
     {
       "Value": "регуляризация?",
@@ -13521,7 +14430,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 509
     },
     {
       "Value": "режим",
@@ -13534,13 +14444,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 510
     },
     {
       "Value": "резк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 511
     },
     {
       "Value": "резкий",
@@ -13553,7 +14465,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 512
     },
     {
       "Value": "результат",
@@ -13578,13 +14491,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 513
     },
     {
       "Value": "реш",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 514
     },
     {
       "Value": "решать",
@@ -13597,13 +14512,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 515
     },
     {
       "Value": "решен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 516
     },
     {
       "Value": "решение",
@@ -13653,7 +14570,8 @@
           "Id": 6
         }
       ],
-      "Count": 5
+      "Count": 5,
+      "Id": 517
     },
     {
       "Value": "ряд",
@@ -13666,7 +14584,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 518
     },
     {
       "Value": "с",
@@ -13746,7 +14665,8 @@
           "Id": 11
         }
       ],
-      "Count": 8
+      "Count": 8,
+      "Id": 519
     },
     {
       "Value": "сам",
@@ -13759,19 +14679,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 520
     },
     {
       "Value": "свед",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 521
     },
     {
       "Value": "свободн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 522
     },
     {
       "Value": "свободный",
@@ -13784,13 +14707,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 523
     },
     {
       "Value": "сводим",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 524
     },
     {
       "Value": "сводимость",
@@ -13810,7 +14735,8 @@
           "Id": 4
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 525
     },
     {
       "Value": "сводить",
@@ -13823,13 +14749,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 526
     },
     {
       "Value": "свойств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 527
     },
     {
       "Value": "свойство",
@@ -13848,19 +14776,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 528
     },
     {
       "Value": "связ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 529
     },
     {
       "Value": "связа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 530
     },
     {
       "Value": "связанный",
@@ -13880,7 +14811,8 @@
           "Id": 8
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 531
     },
     {
       "Value": "связывать",
@@ -13893,7 +14825,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 532
     },
     {
       "Value": "связь",
@@ -13906,13 +14839,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 533
     },
     {
       "Value": "сгуща",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 534
     },
     {
       "Value": "сгущаться",
@@ -13925,13 +14860,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 535
     },
     {
       "Value": "седлов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 536
     },
     {
       "Value": "седловой",
@@ -13944,13 +14881,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 537
     },
     {
       "Value": "семейств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 538
     },
     {
       "Value": "семейство",
@@ -13976,13 +14915,15 @@
           "Id": 5
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 539
     },
     {
       "Value": "сетк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 540
     },
     {
       "Value": "сетка",
@@ -14001,13 +14942,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 541
     },
     {
       "Value": "сеточн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 542
     },
     {
       "Value": "сеточный",
@@ -14020,13 +14963,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 543
     },
     {
       "Value": "систем",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 544
     },
     {
       "Value": "система",
@@ -14058,13 +15003,15 @@
           "Id": 2
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 545
     },
     {
       "Value": "скорост",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 546
     },
     {
       "Value": "скорость",
@@ -14083,13 +15030,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 547
     },
     {
       "Value": "след",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 548
     },
     {
       "Value": "следовать",
@@ -14102,13 +15051,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 549
     },
     {
       "Value": "сло",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 550
     },
     {
       "Value": "слой",
@@ -14134,13 +15085,15 @@
           "Id": 3
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 551
     },
     {
       "Value": "служ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 552
     },
     {
       "Value": "служить",
@@ -14153,19 +15106,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 553
     },
     {
       "Value": "случ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 554
     },
     {
       "Value": "случа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 555
     },
     {
       "Value": "случай",
@@ -14196,7 +15152,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 556
     },
     {
       "Value": "со",
@@ -14209,13 +15166,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 557
     },
     {
       "Value": "соболев",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 558
     },
     {
       "Value": "соболева",
@@ -14228,13 +15187,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 559
     },
     {
       "Value": "соверша",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 560
     },
     {
       "Value": "совершать",
@@ -14247,13 +15208,15 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 561
     },
     {
       "Value": "совпада",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 562
     },
     {
       "Value": "совпадать",
@@ -14266,13 +15229,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 563
     },
     {
       "Value": "совпаден",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 564
     },
     {
       "Value": "совпадение",
@@ -14285,13 +15250,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 565
     },
     {
       "Value": "содерж",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 566
     },
     {
       "Value": "содержать",
@@ -14304,13 +15271,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 567
     },
     {
       "Value": "соответств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 568
     },
     {
       "Value": "соответствовать",
@@ -14335,7 +15304,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 569
     },
     {
       "Value": "соответствующий",
@@ -14366,13 +15336,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 570
     },
     {
       "Value": "соотношен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 571
     },
     {
       "Value": "соотношение",
@@ -14391,19 +15363,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 572
     },
     {
       "Value": "состоя",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 573
     },
     {
       "Value": "состоян",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 574
     },
     {
       "Value": "состояние",
@@ -14423,7 +15398,8 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 575
     },
     {
       "Value": "состоять",
@@ -14436,13 +15412,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 576
     },
     {
       "Value": "специальн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 577
     },
     {
       "Value": "специальный",
@@ -14455,13 +15433,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 578
     },
     {
       "Value": "сред",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 579
     },
     {
       "Value": "среда",
@@ -14474,13 +15454,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 580
     },
     {
       "Value": "стабилизац",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 581
     },
     {
       "Value": "стабилизация",
@@ -14493,13 +15475,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 582
     },
     {
       "Value": "старш",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 583
     },
     {
       "Value": "старший",
@@ -14512,13 +15496,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 584
     },
     {
       "Value": "стенк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 585
     },
     {
       "Value": "стенка",
@@ -14538,13 +15524,15 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 586
     },
     {
       "Value": "степен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 587
     },
     {
       "Value": "степенный",
@@ -14564,13 +15552,15 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 588
     },
     {
       "Value": "стру",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 589
     },
     {
       "Value": "струя",
@@ -14583,13 +15573,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 590
     },
     {
       "Value": "сумматорн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 591
     },
     {
       "Value": "сумматорный?",
@@ -14609,13 +15601,15 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 592
     },
     {
       "Value": "суперпозиц",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 593
     },
     {
       "Value": "суперпозиция",
@@ -14628,13 +15622,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 594
     },
     {
       "Value": "существен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 595
     },
     {
       "Value": "существенный",
@@ -14647,13 +15643,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 596
     },
     {
       "Value": "существован",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 597
     },
     {
       "Value": "существование",
@@ -14672,13 +15670,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 598
     },
     {
       "Value": "сфер",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 599
     },
     {
       "Value": "сфера",
@@ -14698,13 +15698,15 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 600
     },
     {
       "Value": "сферическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 601
     },
     {
       "Value": "сферический",
@@ -14717,13 +15719,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 602
     },
     {
       "Value": "сформулирова",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 603
     },
     {
       "Value": "сформулировать",
@@ -14736,13 +15740,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 604
     },
     {
       "Value": "схем",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 605
     },
     {
       "Value": "схема",
@@ -14755,13 +15761,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 606
     },
     {
       "Value": "сходим",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 607
     },
     {
       "Value": "сходимость",
@@ -14780,13 +15788,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 608
     },
     {
       "Value": "счетн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 609
     },
     {
       "Value": "счетный",
@@ -14799,19 +15809,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 610
     },
     {
       "Value": "так",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 611
     },
     {
       "Value": "такж",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 612
     },
     {
       "Value": "также",
@@ -14824,7 +15837,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 613
     },
     {
       "Value": "такой",
@@ -14837,13 +15851,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 614
     },
     {
       "Value": "теорем",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 615
     },
     {
       "Value": "теорема",
@@ -14856,7 +15872,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 616
     },
     {
       "Value": "термин",
@@ -14875,13 +15892,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 617
     },
     {
       "Value": "течен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 618
     },
     {
       "Value": "течение",
@@ -14901,7 +15920,8 @@
           "Id": 10
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 619
     },
     {
       "Value": "тип",
@@ -14933,7 +15953,8 @@
           "Id": 7
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 620
     },
     {
       "Value": "то",
@@ -14952,19 +15973,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 621
     },
     {
       "Value": "тог",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 622
     },
     {
       "Value": "тождеств",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 623
     },
     {
       "Value": "тождество",
@@ -14984,13 +16008,15 @@
           "Id": 2
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 624
     },
     {
       "Value": "тольк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 625
     },
     {
       "Value": "только",
@@ -15003,13 +16029,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 626
     },
     {
       "Value": "тонк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 627
     },
     {
       "Value": "тонкий",
@@ -15022,7 +16050,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 628
     },
     {
       "Value": "тот",
@@ -15035,19 +16064,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 629
     },
     {
       "Value": "точек",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 630
     },
     {
       "Value": "точк",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 631
     },
     {
       "Value": "точка",
@@ -15066,7 +16098,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 632
     },
     {
       "Value": "три",
@@ -15079,7 +16112,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 633
     },
     {
       "Value": "у",
@@ -15092,13 +16126,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 634
     },
     {
       "Value": "увеличен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 635
     },
     {
       "Value": "увеличение",
@@ -15111,19 +16147,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 636
     },
     {
       "Value": "угл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 637
     },
     {
       "Value": "углов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 638
     },
     {
       "Value": "угловой",
@@ -15136,7 +16175,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 639
     },
     {
       "Value": "угол",
@@ -15149,13 +16189,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 640
     },
     {
       "Value": "уда",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 641
     },
     {
       "Value": "удаваться",
@@ -15168,13 +16210,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 642
     },
     {
       "Value": "удал",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 643
     },
     {
       "Value": "удалять",
@@ -15187,7 +16231,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 644
     },
     {
       "Value": "удар",
@@ -15207,13 +16252,15 @@
           "Id": 9
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 645
     },
     {
       "Value": "ударн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 646
     },
     {
       "Value": "ударный",
@@ -15226,13 +16273,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 647
     },
     {
       "Value": "удзав",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 648
     },
     {
       "Value": "удзав?",
@@ -15245,13 +16294,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 649
     },
     {
       "Value": "удовлетворя",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 650
     },
     {
       "Value": "удовлетворять",
@@ -15270,7 +16321,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 651
     },
     {
       "Value": "узел",
@@ -15283,19 +16335,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 652
     },
     {
       "Value": "узл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 653
     },
     {
       "Value": "указа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 654
     },
     {
       "Value": "указывать",
@@ -15314,13 +16369,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 655
     },
     {
       "Value": "униформизац",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 656
     },
     {
       "Value": "униформизация?",
@@ -15333,13 +16390,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 657
     },
     {
       "Value": "управлен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 658
     },
     {
       "Value": "управление",
@@ -15359,13 +16418,15 @@
           "Id": 6
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 659
     },
     {
       "Value": "упруг",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 660
     },
     {
       "Value": "упругий",
@@ -15391,13 +16452,15 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 661
     },
     {
       "Value": "уравнен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 662
     },
     {
       "Value": "уравнение",
@@ -15447,7 +16510,8 @@
           "Id": 2
         }
       ],
-      "Count": 6
+      "Count": 6,
+      "Id": 663
     },
     {
       "Value": "уровень",
@@ -15460,19 +16524,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 664
     },
     {
       "Value": "уровн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 665
     },
     {
       "Value": "услов",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 666
     },
     {
       "Value": "условие",
@@ -15497,13 +16564,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 667
     },
     {
       "Value": "устанавлива",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 668
     },
     {
       "Value": "устанавливать",
@@ -15522,7 +16591,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 669
     },
     {
       "Value": "устанавливаться",
@@ -15535,19 +16605,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 670
     },
     {
       "Value": "установл",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 671
     },
     {
       "Value": "устойчив",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 672
     },
     {
       "Value": "устойчивость",
@@ -15560,13 +16633,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 673
     },
     {
       "Value": "уточня",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 674
     },
     {
       "Value": "уточнять",
@@ -15579,13 +16654,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 675
     },
     {
       "Value": "физическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 676
     },
     {
       "Value": "физический",
@@ -15598,13 +16675,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 677
     },
     {
       "Value": "форм",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 678
     },
     {
       "Value": "форма",
@@ -15624,13 +16703,15 @@
           "Id": 7
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 679
     },
     {
       "Value": "формул",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 680
     },
     {
       "Value": "формула",
@@ -15643,19 +16724,22 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 681
     },
     {
       "Value": "функц",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 682
     },
     {
       "Value": "функциона",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 683
     },
     {
       "Value": "функционал",
@@ -15674,7 +16758,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 684
     },
     {
       "Value": "функция",
@@ -15736,13 +16821,15 @@
           "Id": 6
         }
       ],
-      "Count": 7
+      "Count": 7,
+      "Id": 685
     },
     {
       "Value": "фур",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 686
     },
     {
       "Value": "фурье",
@@ -15755,7 +16842,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 687
     },
     {
       "Value": "х",
@@ -15768,13 +16856,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 688
     },
     {
       "Value": "хадвигер",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 689
     },
     {
       "Value": "хадвигер?",
@@ -15794,13 +16884,15 @@
           "Id": 7
         }
       ],
-      "Count": 1
+      "Count": 1,
+      "Id": 690
     },
     {
       "Value": "хорнич",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 691
     },
     {
       "Value": "хорнич?",
@@ -15813,13 +16905,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 692
     },
     {
       "Value": "цел",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 693
     },
     {
       "Value": "цель",
@@ -15832,7 +16926,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 694
     },
     {
       "Value": "центр",
@@ -15845,13 +16940,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 695
     },
     {
       "Value": "цилиндрическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 696
     },
     {
       "Value": "цилиндрический",
@@ -15877,19 +16974,22 @@
           "Id": 11
         }
       ],
-      "Count": 2
+      "Count": 2,
+      "Id": 697
     },
     {
       "Value": "част",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 698
     },
     {
       "Value": "частн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 699
     },
     {
       "Value": "частное",
@@ -15902,13 +17002,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 700
     },
     {
       "Value": "частност",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 701
     },
     {
       "Value": "частность",
@@ -15921,7 +17023,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 702
     },
     {
       "Value": "частный",
@@ -15934,13 +17037,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 703
     },
     {
       "Value": "частот",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 704
     },
     {
       "Value": "частота",
@@ -15953,7 +17058,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 705
     },
     {
       "Value": "часть",
@@ -15966,13 +17072,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 706
     },
     {
       "Value": "чем",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 707
     },
     {
       "Value": "через",
@@ -15991,13 +17099,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 708
     },
     {
       "Value": "числен",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 709
     },
     {
       "Value": "численный",
@@ -16023,7 +17133,8 @@
           "Id": 6
         }
       ],
-      "Count": 3
+      "Count": 3,
+      "Id": 710
     },
     {
       "Value": "что",
@@ -16066,13 +17177,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 6
+      "Count": 6,
+      "Id": 711
     },
     {
       "Value": "шаров",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 712
     },
     {
       "Value": "шаровой",
@@ -16085,7 +17198,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 713
     },
     {
       "Value": "шишкин",
@@ -16098,13 +17212,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 714
     },
     {
       "Value": "эквивалентн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 715
     },
     {
       "Value": "эквивалентный",
@@ -16117,7 +17233,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 716
     },
     {
       "Value": "эксперимент",
@@ -16136,13 +17253,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 717
     },
     {
       "Value": "эллиптическ",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 718
     },
     {
       "Value": "эллиптический",
@@ -16155,13 +17274,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 719
     },
     {
       "Value": "эт",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 720
     },
     {
       "Value": "это",
@@ -16180,13 +17301,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 2
+      "Count": 2,
+      "Id": 721
     },
     {
       "Value": "явля",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 722
     },
     {
       "Value": "являться",
@@ -16217,13 +17340,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 4
+      "Count": 4,
+      "Id": 723
     },
     {
       "Value": "явн",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 724
     },
     {
       "Value": "явный",
@@ -16248,13 +17373,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 3
+      "Count": 3,
+      "Id": 725
     },
     {
       "Value": "ядр",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 726
     },
     {
       "Value": "ядро",
@@ -16267,13 +17394,15 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 727
     },
     {
       "Value": "якобиа",
       "DocumentsAbstract": [],
       "DocumentsTitle": [],
-      "Count": 0
+      "Count": 0,
+      "Id": 728
     },
     {
       "Value": "якобиан",
@@ -16286,7 +17415,8 @@
         }
       ],
       "DocumentsTitle": [],
-      "Count": 1
+      "Count": 1,
+      "Id": 729
     }
   ]
 }

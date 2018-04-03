@@ -15,7 +15,7 @@ public class TfIdf {
     private static final double K_ABSTRACT = 0.4;
 
     /**
-     *Поиск документов, в которых встречаются все слова из запроса. Результат отсортирован по значению tf_idf(score)
+     * Поиск документов, в которых встречаются все слова из запроса. Результат отсортирован по значению tf_idf(score)
      */
     public Map<Double, Integer> search(String query, String normalizer, String documentsFile) throws IOException, ParseException {
         String[] words = query.toLowerCase().split("\\s+");
@@ -27,38 +27,38 @@ public class TfIdf {
         JSONArray terms = (JSONArray) invertedIndex.get("Terms");
         //считываем score для документов из результа поиска
         Arrays.stream(words).forEach(word -> {
-                    word = intersectionSearch.normalize(word, normalizer);
-                    for (int i = 0; i < terms.size(); i++) {
-                        Double tfIdf;
-                        JSONObject term = (JSONObject) terms.get(i);
-                        if (term.get("Value").equals(word)) {
-                            JSONArray documentsTitle = (JSONArray) term.get("DocumentsTitle");
-                            for (int j = 0; j < documentsTitle.size(); j++) {
-                                JSONObject documentTitle = (JSONObject) documentsTitle.get(j);
-                                int id = (int) (long) documentTitle.get("Id");
-                                if (resultDocIds.contains(id)) {
-                                    tfIdf = Double.parseDouble((String) documentTitle.get("Score"));
-                                    docsWithScore.put(tfIdf, id);
-                                }
-                            }
-                            //если слово находится и в заголовке, и в аннотации, то складываем score заголовка и аннотации
-                            JSONArray documentsAbstract = (JSONArray) term.get("DocumentsAbstract");
-                            for (int j = 0; j < documentsAbstract.size(); j++) {
-                                JSONObject documentAbstract = (JSONObject) documentsAbstract.get(j);
-                                int id = (int) (long) documentAbstract.get("Id");
-                                if (resultDocIds.contains(id) && docsWithScore.values().contains(id)) {
-                                    Double tfIdfTitle = getKey(docsWithScore, id);
-                                    tfIdf = tfIdfTitle + Double.parseDouble((String) documentAbstract.get("Score"));
-                                    docsWithScore.remove(tfIdfTitle);
-                                    docsWithScore.put(tfIdf, id);
-                                } else {
-                                    tfIdf = Double.parseDouble((String) documentAbstract.get("Score"));
-                                    docsWithScore.put(tfIdf, id);
-                                }
-                            }
+            word = intersectionSearch.normalize(word, normalizer);
+            for (int i = 0; i < terms.size(); i++) {
+                Double tfIdf;
+                JSONObject term = (JSONObject) terms.get(i);
+                if (term.get("Value").equals(word)) {
+                    JSONArray documentsTitle = (JSONArray) term.get("DocumentsTitle");
+                    for (int j = 0; j < documentsTitle.size(); j++) {
+                        JSONObject documentTitle = (JSONObject) documentsTitle.get(j);
+                        int id = (int) (long) documentTitle.get("Id");
+                        if (resultDocIds.contains(id)) {
+                            tfIdf = Double.parseDouble((String) documentTitle.get("Score"));
+                            docsWithScore.put(tfIdf, id);
                         }
                     }
-                });
+                    //если слово находится и в заголовке, и в аннотации, то складываем score заголовка и аннотации
+                    JSONArray documentsAbstract = (JSONArray) term.get("DocumentsAbstract");
+                    for (int j = 0; j < documentsAbstract.size(); j++) {
+                        JSONObject documentAbstract = (JSONObject) documentsAbstract.get(j);
+                        int id = (int) (long) documentAbstract.get("Id");
+                        if (resultDocIds.contains(id) && docsWithScore.values().contains(id)) {
+                            Double tfIdfTitle = getKey(docsWithScore, id);
+                            tfIdf = tfIdfTitle + Double.parseDouble((String) documentAbstract.get("Score"));
+                            docsWithScore.remove(tfIdfTitle);
+                            docsWithScore.put(tfIdf, id);
+                        } else {
+                            tfIdf = Double.parseDouble((String) documentAbstract.get("Score"));
+                            docsWithScore.put(tfIdf, id);
+                        }
+                    }
+                }
+            }
+        });
 
         return docsWithScore;
 
@@ -72,14 +72,13 @@ public class TfIdf {
         JSONArray terms = (JSONArray) invertedIndex.get("Terms");
         for (int i = 0; i < terms.size(); i++) {
             JSONObject term = (JSONObject) terms.get(i);
-//            if (term.get("Value").equals("задача")){
             JSONArray documentsTitle = calculateTfIdfForWord(term,
                     "DocumentsTitle", documentsFile);
             JSONArray documentsAbstract = calculateTfIdfForWord(term,
                     "DocumentsAbstract", documentsFile);
             term.replace("DocumentsTitle", documentsTitle);
             term.replace("DocumentsAbstract", documentsAbstract);
-//            }
+
         }
         JSONObject index = new JSONObject();
         index.put("Terms", terms);
@@ -123,22 +122,22 @@ public class TfIdf {
     /**
      * @return tf = сколько раз слово встречается в доке / общее кол-во слов в доке
      */
-    private Double calculateTf(long wordCount, long totalWordsCount) {
+    public static Double calculateTf(long wordCount, long totalWordsCount) {
         return (double) wordCount / totalWordsCount;
     }
 
     /**
      * @return idf = log (N/df), общее кол-во документов / кол-во документов, в котором встречается слово
      */
-    private Double calculateIdf(int N, int df) {
+    public static Double calculateIdf(int N, int df) {
         return Math.log((double) N / df) / Math.log(2.0);
     }
 
-    private Double getKey(Map<Double, Integer> map, Integer value) {
+    public static Double getKey(Map<Double, Integer> map, Integer value) {
         double key = 0;
         for (Map.Entry<Double, Integer> entry : map.entrySet()) {
-            if (entry.getValue().equals(value)){
-                key =  entry.getKey();
+            if (entry.getValue().equals(value)) {
+                key = entry.getKey();
             }
         }
         return key;
@@ -162,8 +161,8 @@ public class TfIdf {
     public static void main(String[] args) {
         TfIdf tfIdf = new TfIdf();
         try {
-//            tfIdf.calculateTfIdfAndPrint("Porter.json", "result.json", "Porter");
-//            tfIdf.calculateTfIdfAndPrint("MyStem.json", "result.json", "MyStem");
+            tfIdf.calculateTfIdfAndPrint("Porter.json", "result.json", "Porter");
+            tfIdf.calculateTfIdfAndPrint("MyStem.json", "result.json", "MyStem");
             String query = "задача уравнение -струя";
             Map<Double, Integer> result = tfIdf.search(query, "MyStem", "result.json");
             tfIdf.printResult(query, result);
