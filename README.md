@@ -22,3 +22,5 @@ Score записан в инветированные индексы: [MyStemWith
             Document id = 9, score = 0.003
 
 ### Домашнее задание №6 - Латентно семантический анализ - [LSA.java](https://github.com/LiyaSharipova/infoSearch/blob/master/src/main/java/com/github/sharipova/LSA.java)
+
+Вывод программы [LSA_output.txt](https://github.com/LiyaSharipova/infoSearch/blob/master/LSA_output.txt)
